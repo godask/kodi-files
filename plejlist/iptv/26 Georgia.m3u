@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:0,abkhaz
+http://185.59.220.110/abkhaz/index.m3u8
+#EXTINF:0,drotv HD
+http://185.59.220.110/drotv/index.m3u8
+#EXTINF:0,ertsulovneba
+http://185.59.220.110/ertsulovneba/index.m3u8
+#EXTINF:0,imedi
+http://185.59.220.110/imedi/index.m3u8
+#EXTINF:0,maestro
+http://185.59.220.110/maestro/index.m3u8
+#EXTINF:0,marao
+http://185.59.220.110/marao/index.m3u8
+#EXTINF:0,musicbox
+http://185.59.220.110/musicbox/index.m3u8
+#EXTINF:0,palitra
+http://185.59.220.110/palitra/index.m3u8
+#EXTINF:0,piktv
+http://185.59.220.110/piktv/index.m3u8
+#EXTINF:0,pirvelitv
+http://185.59.220.110/pirvelitv/index.m3u8
+#EXTINF:0,rustavi2
+http://185.59.220.110/rustavi2/index.m3u8
+#EXTINF:0,sdasutv
+http://185.59.220.110/sdasutv/index.m3u8
+#EXTINF:0,tv12
+http://185.59.220.110/tv12/index.m3u8
+#EXTINF:0,tv24
+http://185.59.220.110/tv24/index.m3u8
+#EXTINF:0,tv25
+http://185.59.220.110/tv25/index.m3u8
+#EXTINF:0,viptv HD
+http://185.59.220.110/viptv/index.m3u8

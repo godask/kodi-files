@@ -1,0 +1,1247 @@
+﻿#EXTM3U
+#EXTINF:-1,112
+#EXTGRP:Украинские
+http://api.tv.ipnet.ua/api/v1/manifest/1442908080.m3u8?codec=mpeg4
+#EXTINF:-1,112
+#EXTGRP:Украинские
+http://94.158.80.101:8080/112ukraine/stream.m3u8
+#EXTINF:-1,112 Украина
+#EXTGRP:Украинские
+http://app.live.112.events/hls-ua/112hd_mid/index.m3u8
+#EXTINF:-1,112 Украина HD
+#EXTGRP:HD
+http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
+#EXTINF:-1,12 Канал (Омск)
+#EXTGRP:Другое
+http://cdn-01.bonus-tv.ru:7780/omsk/playlist.m3u8
+#EXTINF:-1,1HD
+#EXTGRP:HD
+http://cdn-01.bonus-tv.ru:8080/1HDmusic/tracks-v1a1/index.m3u8
+#EXTINF:-1,24 канал
+#EXTGRP:Украинские
+http://api.tv.ipnet.ua/api/v1/manifest/1293298050.m3u8?codec=mpeg4
+#EXTINF:-1,24 канал HD
+#EXTGRP:HD
+http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist_b1328800.m3u8
+#EXTINF:-1,2x2 http://podkola.net/iptv-playlist
+#EXTGRP:Другое
+http://193.124.177.175:8081/live-x/t2x2/playlist.m3u8
+#EXTINF:-1,2x2
+#EXTGRP:Другое
+http://82.209.208.5:7006/play/33
+#EXTINF:-1,2x2 +4
+#EXTGRP:Другое
+http://195.88.16.15/2x2/index.m3u8
+#EXTINF:-1,34 канал
+#EXTGRP:Украинские
+http://api.tv.ipnet.ua/api/v1/manifest/2118742463.m3u8?codec=mpeg4
+#EXTINF:-1,34 канал
+#EXTGRP:Украинские
+http://95.67.49.203:9990/34
+#EXTINF:-1,360
+#EXTGRP:Другое
+http://now2.eaglecdn.com/stream_transcoded_720/360tv_360media_hi/index.m3u8
+#EXTINF:-1,360 Новости
+#EXTGRP:Познавательные
+http://now2.eaglecdn.com/stream_transcoded_720/360tv_360news_hi/index.m3u8
+#EXTINF:-1,365
+#EXTGRP:Познавательные
+http://82.209.208.5:7011/play/a009
+#EXTINF:-1,4 канал HD UA
+#EXTGRP:HD
+http://cdn.vsnw.net:8081/interradio/720i.m3u8
+#EXTINF:-1,4 канал UA
+#EXTGRP:Украинские
+http://api.tv.ipnet.ua/api/v1/manifest/2118742331.m3u8?codec=mpeg4
+#EXTINF:-1,43 канал HD
+#EXTGRP:HD
+http://sochi-strk.ru:1936/strk/43Kanal.stream/playlist.m3u8
+#EXTINF:-1,5 канал (Украина)
+#EXTGRP:Украинские
+http://api.tv.ipnet.ua/api/v1/manifest/1293299450.m3u8?codec=mpeg4
+#EXTINF:-1,5 канал (Украина)
+#EXTGRP:Украинские
+http://94.158.80.101:8080/5channel/stream.m3u8
+#EXTINF:-1,78 HD
+#EXTGRP:HD
+http://vp.gcdn.co/streams/13.m3u8
+#EXTINF:-1,7TV
+#EXTGRP:Другое
+http://v1.proofix.ru/live-tv7/stream1/playlist.m3u8
+#EXTINF:-1,8 Канал
+#EXTGRP:Другое
+http://v1.proofix.ru/live-tv8/stream1/playlist.m3u8
+#EXTINF:-1,8 Канал (Int.)
+#EXTGRP:Другое
+http://v1.proofix.ru/live-tv8-2/europe/playlist.m3u8
+#EXTINF:-1,8 Канал (Красноярск)
+#EXTGRP:Другое
+http://80.65.18.213/perviy_molodeginyi_3100kb.m3u8
+#EXTINF:-1,8 Канал (Новосибирск)
+#EXTGRP:Другое
+http://195.88.16.15/8kanal/index.m3u8
+#EXTINF:-1,8 Канал (Новосибирск)
+#EXTGRP:Другое
+http://8knsk.cdnvideo.ru/8knsk-mpegts/stream1/playlist.m3u8
+#EXTINF:-1,8 канал (Новосибирск)
+#EXTGRP:Другое
+http://hlstv.brn.211.ru/239.211.211.77/stream.m3u8
+#EXTINF:-1,A2
+#EXTGRP:Другое
+http://195.88.16.15/amedia/index.m3u8
+#EXTINF:-1,ATR
+#EXTGRP:Другое
+http://stream.atr.ua/atr/live/index.m3u8
+#EXTINF:-1,ATR
+#EXTGRP:Другое
+http://api.tv.ipnet.ua/api/v1/manifest/2007308341.m3u8?codec=mpeg4
+#EXTINF:-1,Animal Planet
+#EXTGRP:Познавательные
+http://164.132.136.176:8000/0080
+#EXTINF:-1,Arirang
+#EXTGRP:Познавательные
+http://cdn-01.bonus-tv.ru:8080/arirang_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1,Boomerang
+#EXTGRP:Музыкальные
+http://185.57.68.14/133/tracks-v1a1/index.m3u8
+#EXTINF:-1,Boomerang
+#EXTGRP:Музыкальные
+http://164.132.136.176:8000/0144
+#EXTINF:-1,Boutique TV (RU)
+#EXTGRP:Музыкальные
+http://live-btq.cdnvideo.ru/btq/btq.sdp/playlist.m3u8
+#EXTINF:-1,Bridge TV
+#EXTGRP:Музыкальные
+http://bl.webcaster.pro/media/playlist/free_9d6a8624a7702dddd15b6c4fbf272152_hd/65_91554723/576i_high/6b805dbede42bab6bbb6c3b829e4a31b/4639979456.m3u8
+#EXTINF:-1,Canal 2 (Молдова)
+#EXTGRP:Другое
+http://37.233.27.53:8885
+#EXTINF:-1,Canal 3 (Молдова)
+#EXTGRP:Другое
+http://37.233.27.53:8893
+#EXTINF:-1,Capital TV
+#EXTGRP:Музыкальные
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_1500_av-b.m3u8
+#EXTINF:-1,Cartoon Network
+#EXTGRP:Познавательные
+http://94.74.65.48:19123/ott/219:1122
+#EXTINF:-1,Cartoon Network
+#EXTGRP:Познавательные
+http://163.172.180.138:8081/tv/cartoon-network/playlist.m3u8
+#EXTINF:-1,DTX
+#EXTGRP:Познавательные
+http://185.57.68.14/111/tracks-v1a1/index.m3u8
+#EXTINF:-1,DW
+#EXTGRP:Познавательные
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
+#EXTINF:-1,Da Vinci
+#EXTGRP:Познавательные
+http://185.57.68.14/165/tracks-v1a1/index.m3u8
+#EXTINF:-1,Da Vinci
+#EXTGRP:Познавательные
+http://164.132.136.176:8000/0053
+#EXTINF:-1,Discovery
+#EXTGRP:Познавательные
+http://164.132.136.176:8000/0076
+#EXTINF:-1,Discovery
+#EXTGRP:Познавательные
+http://94.74.64.1:19123/ott/97:1234
+#EXTINF:-1,Discovery Science
+#EXTGRP:Познавательные
+http://185.57.68.14/112/tracks-v1a1/index.m3u8
+#EXTINF:-1,Discovery Science
+#EXTGRP:Познавательные
+http://164.132.136.176:8000/0061
+#EXTINF:-1,Discovery Science
+#EXTGRP:Познавательные
+http://94.74.64.1:19123/ott/99:1234
+#EXTINF:-1,E TV
+#EXTGRP:Познавательные
+http://cdn-01.bonus-tv.ru:8080/gameshow_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1,Enter-Фільм
+#EXTGRP:Украинские
+http://94.74.65.48:19123/ott/209:1122
+#EXTINF:-1,Europa Plus
+#EXTGRP:Музыкальные
+http://164.132.136.176:8000/0057
+#EXTINF:-1,Eurosport 1
+#EXTGRP:Спорт
+http://185.57.68.14/118/tracks-v1a1/index.m3u8
+#EXTINF:-1,Eurosport 1
+#EXTGRP:Спорт
+http://82.209.208.5:7009/play/a01u/index.m3u8
+#EXTINF:-1,Eurosport 1
+#EXTGRP:Спорт
+http://51.15.42.158:8081/tv/eurosport-1/playlist.m3u8
+#EXTINF:-1,Eurosport 2
+#EXTGRP:Спорт
+http://51.15.42.158:8081/tv/eurosport-2/playlist.m3u8
+#EXTINF:-1,Extreme Sports
+#EXTGRP:Спорт
+http://185.57.68.14/135/tracks-v1a1/index.m3u8
+#EXTINF:-1,FoodMan Club
+#EXTGRP:Другое
+http://serv25.vintera.tv:8081/foodman/club/playlist.m3u8
+#EXTINF:-1,Fox
+#EXTGRP:Другое
+http://195.88.16.15/fox/index.m3u8
+#EXTINF:-1,Fox
+#EXTGRP:Другое
+http://94.74.65.48:19123/ott/76:1122
+#EXTINF:-1,Fox life
+#EXTGRP:Другое
+http://195.88.16.15/foxlife/index.m3u8
+#EXTINF:-1,France 24 (ENG)
+#EXTGRP:Познавательные
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1,Fresh TV
+#EXTGRP:Музыкальные
+http://wse.planeta-online.tv:1935/live/channel_4/index.m3u8
+#EXTINF:-1,Global Star
+#EXTGRP:Музыкальные
+rtmp://stream.globalstar.tv/live/gs
+#EXTINF:-1,Gold TV (Mold)
+#EXTGRP:Музыкальные
+http://goldtv.md:1935/live/GOLDTV1.stream/playlist.m3u8
+#EXTINF:-1,HD Fashion & Lifestyle UA
+#EXTGRP:HD
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:-1,HD Media
+#EXTGRP:HD
+http://62.76.26.81:8081/hdmedia/hdmedia_pay/playlist.m3u8
+#EXTINF:-1,HD Media 3D
+#EXTGRP:HD
+http://62.76.26.81:8081/hdmedia/hdmedia_3d/playlist.m3u8
+#EXTINF:-1,HIT TV
+#EXTGRP:Музыкальные
+http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_4.m3u8
+#EXTINF:-1,HardLife
+#EXTGRP:Музыкальные
+rtmp://stream.hardlife.tv/live/hl
+#EXTINF:-1,Heart
+#EXTGRP:Музыкальные
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_1500_av-b.m3u8
+#EXTINF:-1,Heavy Metal TV
+#EXTGRP:Музыкальные
+http://70.166.99.93:1935/hmtv/myStream/playlist.m3u8
+#EXTINF:-1,ID Fashion HD
+#EXTGRP:HD
+http://95.67.8.22/hls/idfashion/index.m3u8
+#EXTINF:-1,IZ.RU HD
+#EXTGRP:HD
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1,Investigation Discovery
+#EXTGRP:Познавательные
+http://164.132.136.176:8000/0199
+#EXTINF:-1,Investigation Discovery (RU)
+#EXTGRP:Познавательные
+http://185.57.68.14/132/tracks-v1a1/index.m3u8
+#EXTINF:-1,JimJam
+#EXTGRP:Детские
+http://82.209.208.5:7009/play/a01v/index.m3u8
+#EXTINF:-1,JimJam
+#EXTGRP:Детские
+http://164.132.136.176:8000/0234
+#EXTINF:-1,LALE
+#EXTGRP:Детские
+http://stream.atr.ua/lale//live/index.m3u8
+#EXTINF:-1,Leomax
+#EXTGRP:Другое
+http://cdn-11.bonus-tv.ru:80/Leomax/playlist.m3u8
+#EXTINF:-1,Luxury
+#EXTGRP:Другое
+http://nano.teleservice.su:8080/hls/luxury.m3u8
+#EXTINF:-1,M1 Global TV HD
+#EXTGRP:HD
+http://live-m1globaltv.cdnvideo.ru/m1globaltv/smil:m1globaltv-rtmp-ru.smil/chunklist_b4628001.m3u8
+#EXTINF:-1,MCM TOP
+#EXTGRP:Музыкальные
+http://185.57.68.14:8091/106/tracks-v1a1/index.m3u8
+#EXTINF:-1,Most Video TV HD
+#EXTGRP:HD
+http://wow.stib.com.ua:1935/tv/ch1/playlist_b125000.m3u8
+#EXTINF:-1,Music Box
+#EXTGRP:Музыкальные
+http://live-musicbox.cdnvideo.ru/musicbox2/mboxtv.sdp/playlist.m3u8
+#EXTINF:-1,Music Box
+#EXTGRP:Музыкальные
+http://195.88.16.15/musicbox/index.m3u8
+#EXTINF:-1,Music Box UA
+#EXTGRP:Украинские
+http://212.26.132.86/hls/mb_ua_2500.m3u8
+#EXTINF:-1,Music Box UA
+#EXTGRP:Украинские
+http://95.67.49.203:9990/OTV
+#EXTINF:-1,Music Box UA
+#EXTGRP:Украинские
+http://94.74.65.48:19123/ott/249:1122
+#EXTINF:-1,Muzzone
+#EXTGRP:Музыкальные
+http://live.muzzone.cdnvideo.ru/muzzone/muzzone.sdp/playlist.m3u8
+#EXTINF:-1,NRJ Hits
+#EXTGRP:Познавательные
+http://5.196.138.6:1935/live/nrjbelgique_720p/playlist.m3u8
+#EXTINF:-1,NRJ TV HD
+#EXTGRP:HD
+http://energytv.vedge.infomaniak.com/livecast/energytv/playlist.m3u8
+#EXTINF:-1,Nano
+#EXTGRP:Познавательные
+http://nano.teleservice.su:8080/hls/nano.m3u8
+#EXTINF:-1,Nano HD
+#EXTGRP:HD
+http://nano.teleservice.su:8080/hls/nanohd.m3u8
+#EXTINF:-1,Nat Geo Wild
+#EXTGRP:Познавательные
+http://164.132.136.176:8000/0054
+#EXTINF:-1,National Geographic
+#EXTGRP:Познавательные
+http://94.74.65.48:19123/ott/201:1122
+#EXTINF:-1,National Geographic
+#EXTGRP:Познавательные
+http://164.132.136.176:8000/0081
+#EXTINF:-1,Nebiset
+#EXTGRP:Познавательные
+http://hls.nebiset.tv/nebiset_2000/index.m3u8
+#EXTINF:-1,NewsOne HD
+#EXTGRP:HD
+http://77.120.104.64/hls/newsone-hd/stream.m3u8
+#EXTINF:-1,OTV
+#EXTGRP:Украинские
+http://api.tv.ipnet.ua/api/v1/manifest/1293297500.m3u8
+#EXTINF:-1,OTV
+#EXTGRP:Познавательные
+http://212.26.146.148/hls/otv.m3u8
+#EXTINF:-1,Ocean TV
+#EXTGRP:Познавательные
+http://91.192.168.242:9091
+#EXTINF:-1,Outdoor Channel
+#EXTGRP:Познавательные
+http://185.57.68.14:8091/123/tracks-v1a1/index.m3u8
+#EXTINF:-1,Paramount Channel
+#EXTGRP:Другое
+http://185.57.68.14/109/tracks-v1a1/index.m3u8
+#EXTINF:-1,Paramount Comedy
+#EXTGRP:Другое
+http://185.57.68.14/129/tracks-v1a1/index.m3u8
+#EXTINF:-1,Paramount Comedy
+#EXTGRP:Другое
+http://94.74.65.48:19123/ott/195:1122
+#EXTINF:-1,Prime (Молдова)
+#EXTGRP:Познавательные
+http://37.233.27.53:8894
+#EXTINF:-1,RADIO MONTE CARLO TV
+#EXTGRP:Музыкальные
+http://tv.105.net:1935/live/rmc1/playlist.m3u8
+#EXTINF:-1,RTG TV
+#EXTGRP:Другое
+http://185.57.68.14:8091/117/tracks-v1a1/index.m3u8
+#EXTINF:-1,webhalpme.ru/iptv
+#EXTGRP:Другое
+https://webhalpme.ru/intro.mp4
+#EXTINF:-1,RU TV http://podkola.net/iptv-playlist
+#EXTGRP:Другое
+http://live-rmg.cdnvideo.ru/rmg/rutv_new.sdp/playlist.m3u8
+#EXTINF:-1,RU TV
+#EXTGRP:Другое
+http://195.88.16.15/rutv/index.m3u8
+#EXTINF:-1,RU TV HD
+#EXTGRP:HD
+http://live-rmg.cdnvideo.ru/rmg/rutv_hd.sdp/playlist.m3u8
+#EXTINF:-1,Russia Today HD
+#EXTGRP:HD
+http://cdn-01.bonus-tv.ru:8080/RussiaToday/tracks-v1a1/index.m3u8
+#EXTINF:-1,Russia Today Док
+#EXTGRP:Познавательные
+http://rtmp.api.rt.com/hls/rtdru.m3u8
+#EXTINF:-1,Russia Today Док HD
+#EXTGRP:HD
+http://cdn-01.bonus-tv.ru:8080/rtdoc/tracks-v1a1/index.m3u8
+#EXTINF:-1,Russian Music Box
+#EXTGRP:Музыкальные
+http://live-musicbox.cdnvideo.ru/musicbox2/musicbox.sdp/playlist.m3u8
+#EXTINF:-1,Russian Music Box
+#EXTGRP:Музыкальные
+http://193.124.177.177:8081/live-x/russianmb/playlist.m3u8
+#EXTINF:-1,SONG TV HD (Armenia)
+#EXTGRP:HD
+http://mtvam.ru/hlsam/high/playlist.m3u8
+#EXTINF:-1,SONG TV HD (Georgia)
+#EXTGRP:HD
+https://songtvge.ru/lhigh/playlist.m3u8
+#EXTINF:-1,SONG TV HD (Russia)
+#EXTGRP:HD
+https://songtvru.ru/lhigh/playlist.m3u8
+#EXTINF:-1,SONY
+#EXTGRP:Познавательные
+http://164.132.136.176:8000/0208
+#EXTINF:-1,Sony
+#EXTGRP:Познавательные
+http://94.74.64.1:19123/ott/50:1234
+#EXTINF:-1,Sony Sci-Fi
+#EXTGRP:Познавательные
+http://164.132.136.176:8000/0236
+#EXTINF:-1,Sony Turbo
+#EXTGRP:Познавательные
+http://164.132.136.176:8000/0237
+#EXTINF:-1,TB 1000 Русское кино
+#EXTGRP:Кино
+http://164.132.136.176:8000/0048
+#EXTINF:-1,TLC
+#EXTGRP:Кино
+http://185.57.68.14/139/tracks-v1a1/index.m3u8
+#EXTINF:-1,TLC
+#EXTGRP:Кино
+http://164.132.136.176:8000/0079
+#EXTINF:-1,TV 1000
+#EXTGRP:Кино
+http://185.57.68.14/164/tracks-v1a1/index.m3u8
+#EXTINF:-1,TV 1000
+#EXTGRP:Кино
+http://82.209.208.5:7003/play/a00g/index.m3u8
+#EXTINF:-1,TV 1000
+#EXTGRP:Кино
+http://164.132.136.176:8000/0046
+#EXTINF:-1,TV 1000 Action
+#EXTGRP:Кино
+http://185.57.68.14/163/tracks-v1a1/index.m3u8
+#EXTINF:-1,TV 1000 Action
+#EXTGRP:Кино
+http://164.132.136.176:8000/0047
+#EXTINF:-1,TV 1000 Action
+#EXTGRP:Кино
+http://94.74.64.1:19123/ott/190:1234
+#EXTINF:-1,TV 1000 Русское Кино
+#EXTGRP:Кино
+http://82.209.208.5:7003/play/a00e/index.m3u8
+#EXTINF:-1,TV Brics
+#EXTGRP:Музыкальные
+http://live2.mediacdn.ru/sr1/tvbrics/playlist.m3u8
+#EXTINF:-1,TV5 Monde
+#EXTGRP:Другое
+http://37.233.27.53:8890
+#EXTINF:-1,TV8 (Mold)
+#EXTGRP:Другое
+http://cdnworld.magictvbox.eu/TV7/tracks-v1a1/index.m3u8?token=token
+#EXTINF:-1,TVM
+#EXTGRP:Познавательные
+http://149.154.68.132:8081/HOLA/stream/playlist.m3u8
+#EXTINF:-1,TVM Channel
+#EXTGRP:Познавательные
+http://cdn-03.bonus-tv.ru/tvm/tvm/type/none/eol/20200101T0000/hash/9ee236eb709eaaba97b5722f1eedae4af79377c7/playlist.m3u8
+#EXTINF:-1,Travel Channel
+#EXTGRP:Познавательные
+http://185.57.68.14:8091/147/tracks-v1a1/index.m3u8
+#EXTINF:-1,Travel Channel
+#EXTGRP:Познавательные
+http://94.74.64.1:19123/ott/27:1234
+#EXTINF:-1,UA TV
+#EXTGRP:Украинские
+http://api.tv.ipnet.ua/api/v1/manifest/2118742330.m3u8?codec=mpeg4
+#EXTINF:-1,UA TV
+#EXTGRP:Украинские
+http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
+#EXTINF:-1,UA Крым
+#EXTGRP:Украинские
+http://api.tv.ipnet.ua/api/v1/manifest/2118742409.m3u8
+#EXTINF:-1,UA Крым
+#EXTGRP:Украинские
+http://95.67.70.106/hls/uakrim_ua_mid/index.m3u8
+#EXTINF:-1,UA Культура
+#EXTGRP:Украинские
+http://api.tv.ipnet.ua/api/v1/manifest/1311962540.m3u8
+#EXTINF:-1,UA Культура
+#EXTGRP:Украинские
+http://streams.pbc.services/hls/uaculture-4m.m3u8
+#EXTINF:-1,UA Перший
+#EXTGRP:Украинские
+http://api.tv.ipnet.ua/api/v1/manifest/871803891.m3u8
+#EXTINF:-1,Viasat Explore
+#EXTGRP:Познавательные
+http://164.132.136.176:8000/0049
+#EXTINF:-1,Viasat History
+#EXTGRP:Познавательные
+http://82.209.208.5:7003/play/a00h/index.m3u8
+#EXTINF:-1,Viasat History
+#EXTGRP:Познавательные
+http://164.132.136.176:8000/0050
+#EXTINF:-1,Viasat Nature
+#EXTGRP:Познавательные
+http://164.132.136.176:8000/0051
+#EXTINF:-1,Viasat Sport
+#EXTGRP:Познавательные
+http://164.132.136.176:8000/0052
+#EXTINF:-1,WBC
+#EXTGRP:Познавательные
+http://hlstv.brn.211.ru/239.211.211.94/stream.m3u8
+#EXTINF:-1,World Fashion HD
+#EXTGRP:HD
+http://cdn-01.bonus-tv.ru:8080/wfcint/tracks-v1a1/index.m3u8
+#EXTINF:-1,Xsport UA http://podkola.net/iptv-playlist
+#EXTGRP:Украинские
+http://83.142.232.246:1935/live/efir_live720p/playlist.m3u8
+#EXTINF:-1,Zik HD
+#EXTGRP:HD
+http://live-zik-hls1.cosmonova.net.ua/hls/zik_ua_hi/index.m3u8
+#EXTINF:-1,АСВ ТВ
+#EXTGRP:Познавательные
+http://cdn-01.bonus-tv.ru/btv/9volna/type/user/devname/LG-SmartTV/devid/LG-1466490474/eol/20200101T0000/hash/706a3fe43fbf28dbe6f25d303072235c4a94ef86/playlist.m3u8
+#EXTINF:-1,Авто 24
+#EXTGRP:Спорт
+http://195.88.16.15/avto24/index.m3u8
+#EXTINF:-1,Авто 24
+#EXTGRP:Спорт
+http://185.57.68.14/136/tracks-v1a1/index.m3u8
+#EXTINF:-1,Авто 24
+#EXTGRP:Спорт
+http://82.209.208.5:7009/play/a02h/index.m3u8
+#EXTINF:-1,Авто 24
+#EXTGRP:Спорт
+http://164.132.136.176:8000/0222
+#EXTINF:-1,Авто Плюс
+#EXTGRP:Спорт
+http://164.132.136.176:8000/0056
+#EXTINF:-1,Астрахань 24
+#EXTGRP:Познавательные
+http://cdn-01.bonus-tv.ru/astrakhan/astrakhan24/type/user/devname/LG-SmartTV/devid/LG-1462523553/eol/20200101T000000/hash/6e03328c523da2fa9031f82301e3c56c69702a8f/hls.m3u8
+#EXTINF:-1,Афонтово (Красноярск)
+#EXTGRP:Другое
+http://stream.afontovo.ru/afontovo_sd.m3u8
+#EXTINF:-1,БСТ
+#EXTGRP:Познавательные
+http://cdn-01.bonus-tv.ru:8080/bst/tracks-v1a1/index.m3u8
+#EXTINF:-1,Баланс ТВ
+#EXTGRP:Другое
+http://stream.balance-tv.ru:1936/btv/btvStream_720p/playlist.m3u8
+#EXTINF:-1,БелРос
+#EXTGRP:Другое
+http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+#EXTINF:-1,Беларусь 24
+#EXTGRP:Другое
+https://stream.hoster.by/belarus24/live/playlist.m3u8
+#EXTINF:-1,Беларусь 24
+#EXTGRP:Другое
+http://212.8.233.150:8081/temp/b24/playlist.m3u8
+#EXTINF:-1,Бобер
+#EXTGRP:Познавательные
+http://164.132.136.176:8000/0188
+#EXTINF:-1,Бойцовский Дух
+#EXTGRP:Спорт
+http://serv25.vintera.tv:8081/hdmedia/laltrlsu/playlist.m3u8
+#EXTINF:-1,Бокс ТВ http://podkola.net/iptv-playlist
+#EXTGRP:Спорт
+http://hls.boxingtvru.cdnvideo.ru/boxingtvru/boxingtvru_hq/playlist.m3u8
+#EXTINF:-1,Бум ТВ HD
+#EXTGRP:HD
+http://live-bumtv.cdnvideo.ru/bumtv-live/smil:bumtv.smil/chunklist_b4192000.m3u8
+#EXTINF:-1,Вместе РФ
+#EXTGRP:Познавательные
+http://cdn-10.bonus-tv.ru:80/vmesterf/tracks-v1a1/index.m3u8
+#EXTINF:-1,Волгоград 24
+#EXTGRP:Познавательные
+http://serv24.vintera.tv:8081/volga24/volgograd24/playlist.m3u8
+#EXTINF:-1,Время
+#EXTGRP:Познавательные
+http://164.132.136.176:8000/0189
+#EXTINF:-1,Время
+#EXTGRP:Познавательные
+http://51.15.194.248:8081/tv/vremya/playlist.m3u8
+#EXTINF:-1,webhalpme.ru/iptv
+#EXTGRP:Познавательные
+https://webhalpme.ru/intro.mp4
+#EXTINF:-1,Горная Страна
+#EXTGRP:Познавательные
+http://hls-sneg-pull2.cdnvideo.ru/sneg-pull2/KTS/playlist.m3u8
+#EXTINF:-1,Громадське
+#EXTGRP:Украинские
+http://api.tv.ipnet.ua/api/v1/manifest/2118742457.m3u8
+#EXTINF:-1,Громадське HD
+#EXTGRP:HD
+http://94.45.135.158:1935/live/HrBroadcast/playlist.m3u8
+#EXTINF:-1,Громадське HD
+#EXTGRP:HD
+http://api.tv.ipnet.ua/api/v1/manifest/139947023.m3u8
+#EXTINF:-1,Детский Мир
+#EXTGRP:Детские
+http://94.74.64.1:19123/ott/194:1234
+#EXTINF:-1,Детский мир
+#EXTGRP:Детские
+http://82.209.208.5:7002/play/15/index.m3u8
+#EXTINF:-1,Детский мир
+#EXTGRP:Детские
+http://164.132.136.176:8000/0223
+#EXTINF:-1,Дисконт ТВ
+#EXTGRP:Другое
+http://cdn-11.bonus-tv.ru:80/TTC/playlist.m3u8
+#EXTINF:-1,Дисней
+#EXTGRP:Детские
+http://94.74.65.48:19123/ott/200:1122
+#EXTINF:-1,Дисней +4
+#EXTGRP:Детские
+http://hlstv.brn.211.ru/239.211.211.24/stream.m3u8
+#EXTINF:-1,Дисней +4
+#EXTGRP:Детские
+http://195.88.16.15/disney/index.m3u8
+#EXTINF:-1,Домашний
+#EXTGRP:Другое
+http://193.124.178.71:8081/live-abr/dom/playlist.m3u8
+#EXTINF:-1,Домашний
+#EXTGRP:Другое
+http://51.15.194.248:8081/tv/domashniy/playlist.m3u8
+#EXTINF:-1,Домашний +4
+#EXTGRP:Другое
+http://195.88.16.15/domashniy/index.m3u8
+#EXTINF:-1,Домашний Familia (Молдова)
+#EXTGRP:Другое
+http://37.233.27.53:8892
+#EXTINF:-1,Дон 24 http://podkola.net/iptv-playlist
+#EXTGRP:Украинские
+http://cdn-03.bonus-tv.ru/donmedia/don24/type/user/devname/LG-SmartTV/devid/LG-1459881171/eol/20200101T000000/hash/6e8b2a0e99ac2f16bf9ce37f8b114a62bc712c7d/playlist.m3u8
+#EXTINF:-1,Дон 24 HD
+#EXTGRP:HD
+http://cdn-01.bonus-tv.ru:7779/don24/tracks-v1a1/index.m3u8
+#EXTINF:-1,Евроновости
+#EXTGRP:Познавательные
+http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
+#EXTINF:-1,Еко
+#EXTGRP:Украинские
+http://api.tv.ipnet.ua/api/v1/manifest/1311963170.m3u8
+#EXTINF:-1,Енисей
+#EXTGRP:Другое
+http://air.enisey.tv/enisey/enisey.m3u8
+#EXTINF:-1,Еспресо
+#EXTGRP:Украинские
+http://api.tv.ipnet.ua/api/v1/manifest/2007567821.m3u8
+#EXTINF:-1,Загородная Жизнь
+#EXTGRP:Познавательные
+http://82.209.208.5:7008/play/63/index.m3u8
+#EXTINF:-1,Загородная жизнь
+#EXTGRP:Познавательные
+http://164.132.136.176:8000/0226
+#EXTINF:-1,Звезда
+#EXTGRP:Другое
+http://cdn-01.bonus-tv.ru:8080/zvezda/tracks-v1a1/index.m3u8
+#EXTINF:-1,Звезда
+#EXTGRP:Другое
+http://193.124.178.71:8081/live-abr/zvezda/playlist.m3u8
+#EXTINF:-1,Звезда +4
+#EXTGRP:Другое
+http://195.88.16.15/zvezda/index.m3u8
+#EXTINF:-1,ИТВ Крым
+#EXTGRP:Другое
+http://195.5.108.14:1935/live/itv1/playlist.m3u8
+#EXTINF:-1,Индийское кино
+#EXTGRP:Другое
+http://82.209.208.5:7011/play/a00c
+#EXTINF:-1,Интер http://podkola.net/iptv-playlist
+#EXTGRP:Украинские
+http://109.68.40.67/life/inter_3/index.m3u8
+#EXTINF:-1,К1
+#EXTGRP:Украинские
+http://109.68.40.67/life/k1_3/index.m3u8
+#EXTINF:-1,КРТ
+#EXTGRP:Украинские
+http://api.tv.ipnet.ua/api/v1/manifest/1298864660.m3u8
+#EXTINF:-1,КХЛ
+#EXTGRP:Украинские
+http://195.88.16.15/khl/index.m3u8
+#EXTINF:-1,КХЛ
+#EXTGRP:Украинские
+http://185.57.68.14/108/tracks-v1a1/index.m3u8
+#EXTINF:-1,КХЛ
+#EXTGRP:Украинские
+http://51.15.42.158:8081/tv/khl/playlist.m3u8
+#EXTINF:-1,Калейдоскоп
+#EXTGRP:Детские
+http://cdn-01.bonus-tv.ru:8080/Kaleidoskop_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1,Калейдоскоп
+#EXTGRP:Детские
+http://serv24.vintera.tv:8081/kaledoskop/kaledoskop/playlist.m3u8
+#EXTINF:-1,Карусель
+#EXTGRP:Детские
+http://193.124.178.14:8081/live-abr/karusel/playlist.m3u8
+#EXTINF:-1,Карусель
+#EXTGRP:Детские
+http://94.74.65.48:19123/ott/191:1122
+#EXTINF:-1,Карусель +3
+#EXTGRP:Детские
+http://195.88.16.15/karusel/index.m3u8
+#EXTINF:-1,Киев
+#EXTGRP:Украинские
+http://hls-kyivtv.cdnvideo.ru/kyivtv/kyivtv.sdp/playlist.m3u8
+#EXTINF:-1,Киев
+#EXTGRP:Украинские
+http://api.tv.ipnet.ua/api/v1/manifest/1293296300.m3u8
+#EXTINF:-1,Кино ТВ
+#EXTGRP:Кино
+http://195.88.16.15/kinotv/index.m3u8
+#EXTINF:-1,Кино ТВ
+#EXTGRP:Кино
+http://78.111.176.132:8087
+#EXTINF:-1,Киноменю HD
+#EXTGRP:HD
+http://62.76.26.81:8081/hdmedia/menu/playlist.m3u8
+#EXTINF:-1,Киномикс http://podkola.net/iptv-playlist
+#EXTGRP:Кино
+http://94.74.65.48:19123/ott/197:1122
+#EXTINF:-1,Киномикс
+#EXTGRP:Кино
+http://82.209.208.5:7011/play/a01g
+#EXTINF:-1,Киномикс
+#EXTGRP:Кино
+http://164.132.136.176:8000/0060
+#EXTINF:-1,Киносвидание
+#EXTGRP:Кино
+http://94.74.65.48:19123/ott/215:1122
+#EXTINF:-1,Киносвидание
+#EXTGRP:Кино
+http://193.124.177.175:8081/live-x/kinolove/playlist.m3u8
+#EXTINF:-1,Киносвидание
+#EXTGRP:Кино
+http://82.209.208.5:7011/play/a00z
+#EXTINF:-1,Киносемья
+#EXTGRP:Кино
+http://193.124.177.175:8081/live-x/kinofamily/playlist.m3u8
+#EXTINF:-1,Киносемья
+#EXTGRP:Кино
+http://82.209.208.5:7011/play/82
+#EXTINF:-1,Киносемья
+#EXTGRP:Кино
+http://164.132.136.176:8000/0216
+#EXTINF:-1,Киносерия
+#EXTGRP:Кино
+http://82.209.208.5:7011/play/a00e
+#EXTINF:-1,Кинохит
+#EXTGRP:Кино
+http://193.124.177.175:8081/live-x/kinohit/playlist.m3u8
+#EXTINF:-1,Кинохит
+#EXTGRP:Кино
+http://82.209.208.5:7011/play/a00g
+#EXTINF:-1,Кинохит
+#EXTGRP:Кино
+http://164.132.136.176:8000/0096
+#EXTINF:-1,Классика Кино
+#EXTGRP:Кино
+http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
+#EXTINF:-1,Конный Мир SD
+#EXTGRP:Спорт
+http://cdn-01.bonus-tv.ru:8080/konnyimir_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1,Красная линия
+#EXTGRP:Познавательные
+http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8
+#EXTINF:-1,Крик ТВ
+#EXTGRP:Другое
+http://cdn-01.bonus-tv.ru:8080/kriktv_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1,Крым 1 HD
+#EXTGRP:HD
+http://vid.techbee.pro:8080/1tvcrimea/index.m3u8
+#EXTINF:-1,Крым 24 HD
+#EXTGRP:HD
+http://vid.techbee.pro:8080/crimea24/index.m3u8
+#EXTINF:-1,Кубань 24 Орбита
+#EXTGRP:Другое
+http://5.23.53.173:8080/hls/stream.m3u8
+#EXTINF:-1,Курай
+#EXTGRP:Другое
+http://cdn-01.bonus-tv.ru:8080/kurai_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1,Липецкое Время
+#EXTGRP:Познавательные
+http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8
+#EXTINF:-1,Любимое Кино
+#EXTGRP:Кино
+http://82.209.208.5:7009/play/a01s/index.m3u8
+#EXTINF:-1,Любимое.TV
+#EXTGRP:Познавательные
+http://wse.planeta-online.tv:1935/live/channel_6/playlist.m3u8
+#EXTINF:-1,Макси
+#EXTGRP:Украинские
+http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8
+#EXTINF:-1,Малятко
+#EXTGRP:Украинские
+http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8
+#EXTINF:-1,Мама
+#EXTGRP:Детские
+http://195.88.16.15/mama/index.m3u8
+#EXTINF:-1,Мама
+#EXTGRP:Детские
+http://185.57.68.14/128/tracks-v1a1/index.m3u8
+#EXTINF:-1,Мама
+#EXTGRP:Детские
+http://164.132.136.176:8000/0084
+#EXTINF:-1,Мега
+#EXTGRP:Познавательные
+http://94.74.65.48:19123/ott/217:1122
+#EXTINF:-1,Мир
+#EXTGRP:Кино
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1,Мир
+#EXTGRP:Познавательные
+http://193.124.177.177:8081/live-x/mir/playlist.m3u8
+#EXTINF:-1,Мир +4
+#EXTGRP:Познавательные
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
+#EXTINF:-1,Мир +4
+#EXTGRP:Познавательные
+http://195.88.16.15/mir/index.m3u8
+#EXTINF:-1,Мир 24
+#EXTGRP:Познавательные
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1,Мир 24
+#EXTGRP:Познавательные
+http://195.88.16.15/mir24/index.m3u8
+#EXTINF:-1,Мир HD
+#EXTGRP:HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
+#EXTINF:-1,Мир Белогорья
+#EXTGRP:Познавательные
+http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8
+#EXTINF:-1,Мир Сериала
+#EXTGRP:Кино
+http://185.57.68.14/107/tracks-v1a1/index.m3u8
+#EXTINF:-1,Мир Сериала
+#EXTGRP:Кино
+http://82.209.208.5:7002/play/19/index.m3u8
+#EXTINF:-1,Мой Мир
+#EXTGRP:Познавательные
+http://serv28.vintera.tv:8081/mediapark/moimir/playlist.m3u8
+#EXTINF:-1,Москва 24
+#EXTGRP:Познавательные
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:m24.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,Москва 24
+#EXTGRP:Познавательные
+http://193.124.177.177:8081/live-x/moscow24/playlist.m3u8
+#EXTINF:-1,Моя Планета
+#EXTGRP:Познавательные
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,Моя Планета
+#EXTGRP:Познавательные
+http://185.57.68.14:8091/121/tracks-v1a1/index.m3u8
+#EXTINF:-1,Мужское кино
+#EXTGRP:Кино
+http://193.124.177.175:8081/live-x/kinoman/playlist.m3u8
+#EXTINF:-1,Мужское кино
+#EXTGRP:Кино
+http://82.209.208.5:7011/play/a00l
+#EXTINF:-1,Мужское кино
+#EXTGRP:Кино
+http://164.132.136.176:8000/0211
+#EXTINF:-1,Мужской
+#EXTGRP:Другое
+http://82.209.208.5:7008/play/56/index.m3u8
+#EXTINF:-1,Муз
+#EXTGRP:Музыкальные
+http://82.209.208.5:7006/play/a00k
+#EXTINF:-1,Муз
+#EXTGRP:Музыкальные
+http://193.124.177.177:8081/live-x/muztv/playlist.m3u8
+#EXTINF:-1,Муз
+#EXTGRP:Музыкальные
+http://163.172.180.138:8081/tv/muz-tv/playlist.m3u8
+#EXTINF:-1,Мульт
+#EXTGRP:Детские
+http://195.88.16.15/mult/index.m3u8
+#EXTINF:-1,Мульт
+#EXTGRP:Детские
+http://163.172.180.138:8081/tv/mult/playlist.m3u8
+#EXTINF:-1,Мульт и Музыка
+#EXTGRP:Детские
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:strana.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,Мультимания
+#EXTGRP:Детские
+http://195.88.16.15/multimania/index.m3u8
+#EXTINF:-1,Мультимания
+#EXTGRP:Детские
+http://82.209.208.5:7004/play/a01j/index.m3u8
+#EXTINF:-1,НАШЕ ТВ
+#EXTGRP:Другое
+http://hls-01-nashetv.magonet.ru/nashetv/live/index.m3u8
+#EXTINF:-1,НСТ
+#EXTGRP:Другое
+http://51.15.194.248:8081/tv/nst/playlist.m3u8
+#EXTINF:-1,НСТ
+#EXTGRP:Другое
+http://94.74.64.1:19123/ott/74:1234
+#EXTINF:-1,НТВ
+#EXTGRP:Другое
+http://193.124.178.14:8081/live-abr/ntv/playlist.m3u8
+#EXTINF:-1,НТВ
+#EXTGRP:Другое
+http://94.74.65.48:19123/ott/186:1122
+#EXTINF:-1,НТВ +4
+#EXTGRP:Другое
+http://195.88.16.15/ntv/index.m3u8
+#EXTINF:-1,НТН
+#EXTGRP:Украинские
+http://109.68.40.67/life/ntn_3/index.m3u8
+#EXTINF:-1,Надiя
+#EXTGRP:Украинские
+http://stream.hope.ua/hopeua/live_1/playlist.m3u8
+#EXTINF:-1,Надежда
+#EXTGRP:Другое
+http://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
+#EXTINF:-1,Наука
+#EXTGRP:Познавательные
+http://185.57.68.14/122/tracks-v1a1/index.m3u8
+#EXTINF:-1,Наше новое кино
+#EXTGRP:Кино
+http://82.209.208.5:7011/play/a00m
+#EXTINF:-1,Неизвестная планета
+#EXTGRP:Познавательные
+http://serv25.vintera.tv:8081/neplaneta/np/playlist.m3u8
+#EXTINF:-1,Новое Телевидение
+#EXTGRP:Познавательные
+http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
+#EXTINF:-1,О2 ТВ
+#EXTGRP:Другое
+http://hls.mycdn0633430096.cdnvideo.ru/mycdn0633430096/stream1_sd.sdp/playlist.m3u8
+#EXTINF:-1,О2 ТВ HD
+#EXTGRP:HD
+http://hls.mycdn0633430096.cdnvideo.ru/mycdn0633430096/stream1_hd.sdp/playlist.m3u8
+#EXTINF:-1,ОНТ BY
+#EXTGRP:Другое
+http://93.125.31.151:1935/live/ont.stream_ont25/playlist.m3u8
+#EXTINF:-1,ОТР
+#EXTGRP:Другое
+http://195.88.16.15/otr/index.m3u8
+#EXTINF:-1,ОТР
+#EXTGRP:Другое
+http://193.124.177.177:8081/live-x/otr/playlist.m3u8
+#EXTINF:-1,ОТР
+#EXTGRP:Другое
+http://94.74.65.48:19123/ott/245:1122
+#EXTINF:-1,Открытый HD
+#EXTGRP:HD
+http://77.232.128.68/bks.m3u8
+#EXTINF:-1,Охота и рыбалка
+#EXTGRP:Спорт
+http://94.74.64.1:19123/ott/38:1234
+#EXTINF:-1,Первый HD
+#EXTGRP:HD
+http://193.124.178.71:8081/live-abr/perviy/playlist.m3u8
+#EXTINF:-1,Первый Метео
+#EXTGRP:Познавательные
+http://live-meteotv.cdnvideo.ru/meteotv/meteotv.sdp/playlist.m3u8
+#EXTINF:-1,Первый Музыкальный BY
+#EXTGRP:Музыкальные
+http://rtmp.one.by:1200
+#EXTINF:-1,Первый Музыкальный HD BY
+#EXTGRP:Музыкальные
+http://rtmp.one.by:1300
+#EXTINF:-1,Первый Музыкальный RU BY
+#EXTGRP:Музыкальные
+http://rtmp.one.by:2200
+#EXTINF:-1,Первый Музыкальный RU HD BY
+#EXTGRP:Музыкальные
+http://rtmp.one.by:2300
+#EXTINF:-1,Первый деловой
+#EXTGRP:Познавательные
+http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_hi/index.m3u8
+#EXTINF:-1,Первый образовательный
+#EXTGRP:Познавательные
+http://164.132.136.176:8000/0170
+#EXTINF:-1,Правда ТУТ
+#EXTGRP:Другое
+http://95.67.77.59/hls/pravdatytkyiv_ua_hi/index.m3u8
+#EXTINF:-1,Правда ТУТ HD (Киев)
+#EXTGRP:HD
+http://94.158.80.101:8080/pravdatyt/stream.m3u8
+#EXTINF:-1,Премьера TV (Трейлеры)
+#EXTGRP:Кино
+http://wse.planeta-online.tv:1935/live/channel_5/chunklist.m3u8
+#EXTINF:-1,Про Бизнес
+#EXTGRP:Другое
+http://193.124.177.175:8081/live-x/probusiness/playlist.m3u8
+#EXTINF:-1,Продвижение HD (Омск)
+#EXTGRP:HD
+http://cdn-10.bonus-tv.ru:80/prodvizhenie/tracks-v1a1/index.m3u8
+#EXTINF:-1,Просвещение
+#EXTGRP:Другое
+http://cdn-01.bonus-tv.ru:8080/prosveschenie_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1,Прямой
+#EXTGRP:Украинские
+http://api.tv.ipnet.ua/api/v1/manifest/1293294600.m3u8
+#EXTINF:-1,Пятница
+#EXTGRP:Другое
+http://193.124.178.71:8081/live-abr/friday/playlist.m3u8
+#EXTINF:-1,Пятница +4
+#EXTGRP:Другое
+http://195.88.16.15/pyatnica/index.m3u8
+#EXTINF:-1,Пятый канал
+#EXTGRP:Другое
+http://193.124.178.14:8081/live-x/kanal5/playlist.m3u8
+#EXTINF:-1,Пятый канал +4
+#EXTGRP:Другое
+http://195.88.16.15/5kanal/index.m3u8
+#EXTINF:-1,РБК
+#EXTGRP:Другое
+http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
+#EXTINF:-1,РБК
+#EXTGRP:Другое
+http://92.50.128.180/utv/1358/index.m3u8
+#EXTINF:-1,РБК
+#EXTGRP:Другое
+http://hlstv.brn.211.ru/239.211.211.76/stream.m3u8
+#EXTINF:-1,РБК (ЕКБ)
+#EXTGRP:Другое
+http://live-ekbrbc.cdnvideo.ru/ekbrbc/ekbrbc/playlist.m3u8
+#EXTINF:-1,Рада
+#EXTGRP:Украинские
+http://217.20.164.181/live/rada480p.stream/playlist.m3u8
+#EXTINF:-1,Рада
+#EXTGRP:Украинские
+http://api.tv.ipnet.ua/api/v1/manifest/1312714970.m3u8
+#EXTINF:-1,Рада
+#EXTGRP:Украинские
+http://95.67.49.203:9990/ICTV
+#EXTINF:-1,Радость Моя
+#EXTGRP:Детские
+http://cdn-01.bonus-tv.ru:8080/radostmoya_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1,Радость моя
+#EXTGRP:Детские
+http://193.124.177.175:8081/live-x/radost/playlist.m3u8
+#EXTINF:-1,Раз ТВ
+#EXTGRP:Другое
+http://live-raztv.cdnvideo.ru/raztv/raztv.sdp/playlist.m3u8
+#EXTINF:-1,Рен
+#EXTGRP:Другое
+http://193.124.177.177:8081/live-abr/ren/playlist.m3u8
+#EXTINF:-1,Рен
+#EXTGRP:Познавательные
+http://94.74.65.48:19123/ott/185:1122
+#EXTINF:-1,Ретро
+#EXTGRP:Другое
+http://195.88.16.15/retro/index.m3u8
+#EXTINF:-1,Родное кино
+#EXTGRP:Кино
+http://94.74.65.48:19123/ott/196:1122
+#EXTINF:-1,Родное кино
+#EXTGRP:Кино
+http://164.132.136.176:8000/0212
+#EXTINF:-1,Россия 1
+#EXTGRP:Другое
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r1.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,Россия 1
+#EXTGRP:Другое
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_1/playlist_hig.m3u8
+#EXTINF:-1,Россия 1
+#EXTGRP:Другое
+http://193.124.178.14:8081/live-x/russia/playlist.m3u8
+#EXTINF:-1,Россия 1
+#EXTGRP:Другое
+http://94.74.65.48:19123/ott/183:1122
+#EXTINF:-1,Россия 1 HD
+#EXTGRP:HD
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rhd.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,Россия 1 HD
+#EXTGRP:HD
+http://hlstv.brn.211.ru/239.211.200.2/stream.m3u8
+#EXTINF:-1,Россия 1 HD
+#EXTGRP:HD
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_vhig.m3u8
+#EXTINF:-1,Россия 1 HD
+#EXTGRP:HD
+http://195.88.16.15/russiahd/index.m3u8
+#EXTINF:-1,Россия 1 HD
+#EXTGRP:HD
+http://cdn-01.bonus-tv.ru:8080/russia_hd/tracks-v1a1/index.m3u8?token=null
+#EXTINF:-1,Россия 1 HD
+#EXTGRP:HD
+http://193.124.178.14:8081/live-x/russiahd/playlist.m3u8
+#EXTINF:-1,Россия 24
+#EXTGRP:Познавательные
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r24.smil/chunklist_b800000.m3u8
+#EXTINF:-1,Россия 24
+#EXTGRP:Познавательные
+http://193.124.178.14:8081/live-x/russia24/playlist.m3u8
+#EXTINF:-1,Россия К
+#EXTGRP:Познавательные
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rk.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,Россия К
+#EXTGRP:Познавательные
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_k/playlist_hig.m3u8
+#EXTINF:-1,Россия К
+#EXTGRP:Познавательные
+http://193.124.177.177:8081/live-x/kultura/playlist.m3u8
+#EXTINF:-1,Россия К
+#EXTGRP:Познавательные
+http://82.209.208.5:7008/play/a00j/index.m3u8
+#EXTINF:-1,Россия К
+#EXTGRP:Познавательные
+http://51.15.194.248:8081/live/kultura/playlist.m3u8
+#EXTINF:-1,Россия РТР
+#EXTGRP:Другое
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,Ростов-ПАПА
+#EXTGRP:Другое
+http://serv30.vintera.tv:8081/rostovpapa/rostovpapa_stream/playlist.m3u8
+#EXTINF:-1,Рубль ТВ
+#EXTGRP:Другое
+http://live-rubltv.cdnvideo.ru/rubltv/rubltv.sdp/chunklist.m3u8
+#EXTINF:-1,Русский Бестселлер
+#EXTGRP:Кино
+http://163.172.180.138:8081/tv/rus-bestceller/playlist.m3u8
+#EXTINF:-1,Русский Иллюзион
+#EXTGRP:Кино
+http://94.74.64.1:19123/ott/15:1234
+#EXTINF:-1,Русский Экстрим (Ретро)
+#EXTGRP:Другое
+http://media2.strekalovskiy.com/rusextrimretro/tracks-v1a1/index.m3u8
+#EXTINF:-1,СТВ (Беларусь)
+#EXTGRP:Другое
+http://212.98.171.116/HLS/ctvby/playlist.m3u8
+#EXTINF:-1,СТРК HD
+#EXTGRP:HD
+http://sochi-strk.ru:1936/strk/strk.stream/playlist.m3u8
+#EXTINF:-1,СТС
+#EXTGRP:Другое
+http://serv30.vintera.tv:8081/provider/sts1/playlist.m3u8
+#EXTINF:-1,СТС
+#EXTGRP:Другое
+http://193.124.177.177:8081/live-abr/sts/playlist.m3u8
+#EXTINF:-1,СТС
+#EXTGRP:Другое
+http://94.74.65.48:19123/ott/182:1122
+#EXTINF:-1,СТС Mega (Молдова)
+#EXTGRP:Другое
+http://37.233.27.53:8891
+#EXTINF:-1,Санкт-Петербург
+#EXTGRP:Другое
+http://stream2.topspb.tv:1935/dev/smil:reserve.smil/playlist.m3u8
+#EXTINF:-1,Свое ТВ (Ставрополь)
+#EXTGRP:Другое
+http://serv24.vintera.tv:8081/svoetv/stvsd/playlist.m3u8
+#EXTINF:-1,Сделано в Кузбассе HD
+#EXTGRP:HD
+http://serv30.vintera.tv:8081/test/Made_in_Siberia2/playlist.m3u8
+#EXTINF:-1,Сказки Зайки
+#EXTGRP:Детские
+http://skazki.vintera.tv:8081/skazki/zaj/playlist.m3u8
+#EXTINF:-1,Смайлик ТВ
+#EXTGRP:Детские
+http://109.68.190.192:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
+#EXTINF:-1,Сонце
+#EXTGRP:Украинские
+http://api.tv.ipnet.ua/api/v1/manifest/709640461.m3u8
+#EXTINF:-1,Сонце
+#EXTGRP:Другое
+http://95.67.49.203:9990/SONCE
+#EXTINF:-1,Сонце
+#EXTGRP:Другое
+http://94.74.65.48:19123/ott/248:1122
+#EXTINF:-1,Супер
+#EXTGRP:Другое
+http://193.124.177.177:8081/live-x/super/playlist.m3u8
+#EXTINF:-1,ТБН
+#EXTGRP:Другое
+http://109.68.190.192:1935/WEB_TBN/TBN.stream/playlist.m3u8
+#EXTINF:-1,ТВ3
+#EXTGRP:Другое
+http://31.185.0.40:8080/tv3/playlist.m3u8
+#EXTINF:-1,ТВ3 +4
+#EXTGRP:Другое
+http://195.88.16.15/tv3/index.m3u8
+#EXTINF:-1,ТВЦ
+#EXTGRP:Другое
+http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/playlist.m3u8
+#EXTINF:-1,ТВЦ
+#EXTGRP:Другое
+http://193.124.177.175:8081/live-abr/tvc/playlist.m3u8
+#EXTINF:-1,ТВЦ +4
+#EXTGRP:Другое
+http://195.88.16.15/tvc/index.m3u8
+#EXTINF:-1,ТДК
+#EXTGRP:Другое
+http://live.tdktv.cdnvideo.ru/tdktv/tdktv.sdp/playlist.m3u8
+#EXTINF:-1,ТНВ Планета
+#EXTGRP:Другое
+http://cdn-10.bonus-tv.ru:80/tnv/tracks-v1a1/index.m3u8
+#EXTINF:-1,ТНТ
+#EXTGRP:Другое
+http://cdn-01.bonus-tv.ru:8080/tnt_stream/tracks-v1a1/index.m3u8
+#EXTINF:-1,ТНТ
+#EXTGRP:Другое
+http://193.124.177.175:8081/live-abr/tnt/playlist.m3u8
+#EXTINF:-1,ТНТ
+#EXTGRP:Другое
+http://94.74.65.48:19123/ott/181:1122
+#EXTINF:-1,ТНТ
+#EXTGRP:Другое
+http://51.15.42.158:8081/tv/tnt/playlist.m3u8
+#EXTINF:-1,ТНТ +4
+#EXTGRP:Другое
+http://195.88.16.15/tnt/index.m3u8
+#EXTINF:-1,ТНТ Music
+#EXTGRP:Музыкальные
+http://cdn-01.bonus-tv.ru/btv/tntmusic/type/user/devname/LG-SmartTV/devid/LG-1469013493/eol/20200101T0000/hash/31f1cdfc91072d63a48690432c5baf7c6163c352/playlist.m3u8
+#EXTINF:-1,ТНТ Music http://podkola.net/iptv-playlist
+#EXTGRP:Музыкальные
+http://cdn-01.bonus-tv.ru:8080/tntmusic/tracks-v1a1/index.m3u8
+#EXTINF:-1,ТНТ Music
+#EXTGRP:Музыкальные
+http://193.124.177.177:8081/live-x/tntmusic/playlist.m3u8
+#EXTINF:-1,ТНТ4
+#EXTGRP:Другое
+http://193.124.177.177:8081/live-x/tnt4/playlist.m3u8
+#EXTINF:-1,ТНТ4/Смайл ТВ +2
+#EXTGRP:Другое
+rtmp://89.107.113.89:1935/live/ktv2
+#EXTINF:-1,Тамыр
+#EXTGRP:Другое
+http://cdn-01.bonus-tv.ru:8080/tamyr_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1,Теледом
+#EXTGRP:Другое
+http://cdn-01.bonus-tv.ru/btv/teledom/type/user/devname/LG-SmartTV/devid/LG-1449432412/eol/20200101T000000/hash/e9b84f5441a92e411f81ccb44daebe8a5ae7d16c/playlist.m3u8
+#EXTINF:-1,Теледом HD
+#EXTGRP:HD
+rtmp://91.209.128.203:1935/live/teledom3
+#EXTINF:-1,Техно 24 http://podkola.net/iptv-playlist
+#EXTGRP:Познавательные
+http://185.57.68.14/131/tracks-v1a1/index.m3u8
+#EXTINF:-1,Томское Время HD
+#EXTGRP:HD
+http://live.tomsk-time.ru/hls/live.m3u8
+#EXTINF:-1,Точка
+#EXTGRP:Другое
+http://cdn-03.bonus-tv.ru/btv/tochkatv/type/user/devname/LG-SmartTV/devid/LG-1466755238/eol/20200101T0000/hash/633ba69ed269612ab76e3c36001c78bb295e896b/playlist.m3u8
+#EXTINF:-1,Точка ТВ
+#EXTGRP:Другое
+http://serv24.vintera.tv:8081/tochka/tochkatv/playlist.m3u8
+#EXTINF:-1,Точка ТВ
+#EXTGRP:Другое
+http://193.124.177.175:8081/live-x/tochkatv/playlist.m3u8
+#EXTINF:-1,Трофей HD
+#EXTGRP:HD
+http://str.trofey.net:1935/live/2_max.smil/chunklist_w1001411868_b2000000.m3u8?id=2&session=1
+#EXTINF:-1,Тюменское Время
+#EXTGRP:Познавательные
+http://streams.sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/playlist.m3u8
+#EXTINF:-1,Феникс Плюс Кино
+#EXTGRP:Кино
+http://cdn-01.bonus-tv.ru/btv/fenixikino/type/user/devname/LG-SmartTV/devid/LG-1445617990/eol/20200101T000000/hash/6c73af80a8160022573f45223a277bfb59ef2325/playlist.m3u8
+#EXTINF:-1,ЧП Инфо
+#EXTGRP:Познавательные
+http://109.68.40.67/life/magnolia_3/index.m3u8
+#EXTINF:-1,Че +4
+#EXTGRP:Другое
+http://195.88.16.15/che/index.m3u8
+#EXTINF:-1,Че +4
+#EXTGRP:Другое
+http://hlstv.brn.211.ru/239.211.255.100/stream.m3u8
+#EXTINF:-1,Шансон ТВ
+#EXTGRP:Музыкальные
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8
+#EXTINF:-1,Ю
+#EXTGRP:Другое
+http://51.15.194.248:8081/tv/yu/playlist.m3u8
+#EXTINF:-1,Ю +4
+#EXTGRP:Другое
+http://hlstv.brn.211.ru/239.211.211.29/stream.m3u8
+#EXTINF:-1,Юмор
+#EXTGRP:Другое
+http://193.124.177.177:8081/live-x/umortv/playlist.m3u8
+#EXTINF:-1,Юрган HD
+#EXTGRP:HD
+http://urgan.vintera.tv:8081/urgan/urganhd/playlist.m3u8u8
+#EXTINF:-1,webhalpme.ru/iptv
+#EXTGRP:HD  
+ 
+---Плейлисты здесь http://podkola.net/iptv-playlist —---

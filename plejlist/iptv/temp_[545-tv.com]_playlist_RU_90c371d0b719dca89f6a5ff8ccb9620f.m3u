@@ -1,0 +1,1351 @@
+#EXTM3U  url-tvg="http://www.teleguide.info/download/new3/jtv.zip" cache=6000 deinterlace=1 audio-track=ru m3uautoload=1
+#EXTINF:-1 aspect-ratio=None group-title="Музыка",1 Music Channel Hungary
+http://545-tv.com/PREMIUM/NO/KANAL/TXVzaWNDaGFubmVsSHVuZ2FyeV8xX0NMSlVI?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Украина",1+1
+http://545-tv.com/PREMIUM/NO/KANAL/b2RpbnBsdXNvZGluXzFfS1ZPR0k=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Бесплатное",1+1 (Int)
+http://545-tv.com/PREMIUM/NO/KANAL/MSsxaW50XzFfQ1JEQUk=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Украина",100%
+http://545-tv.com/PREMIUM/NO/KANAL/c3RvcHJvY2VudF8xX0JFVEZX?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Украина",112 Украина HD
+http://545-tv.com/PREMIUM/NO/KANAL/dWtyYWluYV8xX0tIRUdP?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Украина",2+2 UA
+http://545-tv.com/PREMIUM/NO/KANAL/ZHZhcGx1c2R2YV8xX0VMWkZa?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Новости",24 ДОК
+http://545-tv.com/PREMIUM/NO/KANAL/MjRkb2NfMV9HTkVEUQ==
+#EXTINF:-1 aspect-ratio=None group-title="Общественные",2x2 (+2)
+http://545-tv.com/PREMIUM/NO/KANAL/MngyKzJfMV9XV0JPVg==
+#EXTINF:-1 aspect-ratio=None group-title="Общественные",2x2 (+4)
+http://545-tv.com/PREMIUM/NO/KANAL/ZHZhZ2hfMV9GVUFNVg==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Украина",34 КАНАЛ
+http://545-tv.com/PREMIUM/NO/KANAL/dHJpY2hldF8xX0ZWR1ZL?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Новости",360 Новости
+http://545-tv.com/PREMIUM/NO/KANAL/bmV3czM2MF8xX1NVS1hW?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Региональные",360 Подмосковье HD
+http://545-tv.com/PREMIUM/NO/KANAL/MzYwcG9kbW9za292ZWhkXzFfV0VRVUI=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Иностранные",7 (KAZ)
+http://545-tv.com/PREMIUM/NO/KANAL/c2Vta2F6XzFfQlBaUE8=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Общественные",78 HD
+http://545-tv.com/PREMIUM/NO/KANAL/c2Vtdm9zZW1fMQ==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Общественные",8 канал
+http://545-tv.com/PREMIUM/NO/KANAL/OC1rYW5hbF8xX0hOS0hT
+#EXTINF:-1 aspect-ratio=None group-title="Общественные",8 канал (INT)
+http://545-tv.com/PREMIUM/NO/KANAL/OC1rYW5hbC1yZXplcnZfMV9CVlBCSg==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Новости",ABC HD
+http://545-tv.com/PREMIUM/NO/KANAL/QUJDSERfMQ==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Бесплатное",AD SPORT 1 HD
+http://545-tv.com/PREMIUM/NO/KANAL/YWRzcG9ydDFfMV9WRldMVA==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Бесплатное",AD SPORT 2 HD
+http://545-tv.com/PREMIUM/NO/KANAL/YWRzcG9ydDJfMV9CVktITg==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Кино",Akudji HD
+http://545-tv.com/PREMIUM/NO/KANAL/YWt1ZGppLWhkXzFfSlJIUEY=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Кино",AMC
+http://545-tv.com/PREMIUM/NO/KANAL/YW1jXzFfQklQRE8=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Кино",Amedia 1
+http://545-tv.com/PREMIUM/NO/KANAL/YW1lZGlhLTFfMV9CT0NUWA==
+#EXTINF:-1 aspect-ratio=None group-title="Кино",Amedia 2
+http://545-tv.com/PREMIUM/NO/KANAL/YW1lZGlhLTI0XzFfWklRWEM=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Кино",Amedia HIT
+http://545-tv.com/PREMIUM/NO/KANAL/YW1lZGlhLTItcmV6ZXJ2Ml8x
+#EXTINF:-1 aspect-ratio=None group-title="Кино",Amedia Hit HD
+http://545-tv.com/PREMIUM/NO/KANAL/YW1lZGlhLWhpdC1oZF8xX1daVVlL?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Кино",Amedia Premium
+http://545-tv.com/PREMIUM/NO/KANAL/YW1lZGlhLXByZW1pdW0taGRfMV9HWk9HWg==
+#EXTINF:-1 aspect-ratio=None group-title="Кино",Amedia Premium HD
+http://545-tv.com/PREMIUM/NO/KANAL/YW1lZGlhLTEtcmV6ZXJ2XzFfQ0VRT1A=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Познавательные",Animal Planet HD
+http://545-tv.com/PREMIUM/NO/KANAL/YW5pbWFsLXBsYW5ldC1oZF8xX1FGUkVa?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Общественные",Art-108 HD
+http://545-tv.com/PREMIUM/NO/KANAL/YXJ0MTA4XzFfRE9OUEU=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Бесплатное",Atameken (KZ)
+http://545-tv.com/PREMIUM/NO/KANAL/YXRhbWVrZW5fMV9QU0dVVw==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Музыка",ATR
+http://545-tv.com/PREMIUM/NO/KANAL/bGF0cl8xX1VUQlZR?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Кино",BACKUSTV HD
+http://545-tv.com/PREMIUM/NO/KANAL/QkFDS1VTVFZfMV9XRklLUQ==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Кино",BEST Films HD
+http://545-tv.com/PREMIUM/NO/KANAL/QkVTVEZpbG1zSERfMV9TSk5HTA==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Музыка",BIM TV
+http://545-tv.com/PREMIUM/NO/KANAL/YmltdHZfMV9PUElQRQ==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Взрослое",Blue Hustler (18+)
+http://545-tv.com/PREMIUM/NO/KANAL/Qmx1ZUh1c3RsZXJfMV9KVElMTw==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Кино",Bollywood HD
+http://545-tv.com/PREMIUM/NO/KANAL/Qm9sbHl3b29kSEQtcmV6ZXJ2XzFfSkFXVFQ=
+#EXTINF:-1 aspect-ratio=None group-title="Кино",BOLT HD
+http://545-tv.com/PREMIUM/NO/KANAL/Ym9sdF8xX05TUVdG?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Кино",BOX Cinema HD
+http://545-tv.com/PREMIUM/NO/KANAL/YmFja3VzdHZzY2FyeV8xX0xYVkdH?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Познавательные",Brain TV HD
+http://545-tv.com/PREMIUM/NO/KANAL/YnJhaW4tdHYtaGRfMV9aUEpOWQ==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Взрослое",Brazzers TV Europe (18+)
+http://545-tv.com/PREMIUM/NO/KANAL/YnJhenplcnMtdHYtZXVyb3BlXzFfWkhZS0g=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Музыка",BRIDGE HD
+http://545-tv.com/PREMIUM/NO/KANAL/YnJpZGdlaGRfMQ==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Музыка",Bridge TV
+http://545-tv.com/PREMIUM/NO/KANAL/YnJpZGdlLXR2XzFfTUdVTE8=
+#EXTINF:-1 aspect-ratio=None group-title="Познавательные",Brodilo HD
+http://545-tv.com/PREMIUM/NO/KANAL/YnJvZGlsby1oZF8xX1RVS0JL?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Бесплатное",BTV (Moldova)
+http://545-tv.com/PREMIUM/NO/KANAL/YnR2bW9sZG92XzFfTlpQSEs=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Музыка",Capital TV
+http://545-tv.com/PREMIUM/NO/KANAL/Q2FwaXRhbF8x?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Музыка",Capital TV MUZ
+http://545-tv.com/PREMIUM/NO/KANAL/Q2FwaXRhbFRWTVVaXzFfUUZFVkU=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Новости",CBN HD
+http://545-tv.com/PREMIUM/NO/KANAL/Q0JOSERfMQ==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Познавательные",CBS Reality
+http://545-tv.com/PREMIUM/NO/KANAL/Y2JzLXJlYWxpdHlfMV9HUFBIUw==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Новости",CGTN Русский HD
+http://545-tv.com/PREMIUM/NO/KANAL/Q0dUTnJ1c18x?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Иностранные",Channel 2 News HD (Израиль)
+http://545-tv.com/PREMIUM/NO/KANAL/Q2hhbm5lbDJpc3JfMV9aSVVSTQ==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Музыка",ChaulaTV HD
+http://545-tv.com/PREMIUM/NO/KANAL/Q2hhdWxhaGRfMQ==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Кино",CINEMA
+http://545-tv.com/PREMIUM/NO/KANAL/Y2luZW1hXzFfUUVYQ0U=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Музыка",Clubbing TV HD
+http://545-tv.com/PREMIUM/NO/KANAL/Q2x1YmJpbmdfMV9DRFpGQg==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Кино",Detektiv.tv
+http://545-tv.com/PREMIUM/NO/KANAL/ZGV0ZWt0aXZfMV9PUkFJTw==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Новости",Deutsche Welle (резерв)
+http://545-tv.com/PREMIUM/NO/KANAL/ZGV1dHNjaGUtd2VsbGUtcmV6ZXJ2XzFfRkNZQVI=
+#EXTINF:-1 aspect-ratio=None group-title="Познавательные",Discovery Channel
+http://545-tv.com/PREMIUM/NO/KANAL/ZGlzY292ZXJ5LWNoYW5uZWxfMV9LQVNNTQ==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Познавательные",Discovery Channel 2
+http://545-tv.com/PREMIUM/NO/KANAL/ZGlzY292ZXJ5LWNoYW5uZWwtaGQtcmV6ZXJ2XzE=
+#EXTINF:-1 aspect-ratio=None group-title="Общественные",Discovery Channel HD
+http://545-tv.com/PREMIUM/NO/KANAL/RGlzY292ZXJ5X0NoYW5uZV8xX0pFWVZP?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Познавательные",DISCOVERY LIFE HD
+http://545-tv.com/PREMIUM/NO/KANAL/ZGlzY292ZXJ5LWxpdmUtaGRfMQ==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Познавательные",Discovery Science
+http://545-tv.com/PREMIUM/NO/KANAL/ZGlzY292ZXJ5LXNjaWVuY2VfMV9GR0tNSg==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Познавательные",Discovery Science HD
+http://545-tv.com/PREMIUM/NO/KANAL/RGlzY292ZXJ5X1NjaWVuY2VfMV9DSFdPQw==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Детские",Disney
+http://545-tv.com/PREMIUM/NO/KANAL/ZGlzbmV5XzFfU0ZLQ1g=
+#EXTINF:-1 aspect-ratio=None group-title="Детские",Disney (+3)
+http://545-tv.com/PREMIUM/NO/KANAL/ZGlzbmV5KzNfMV9NTURSRg==
+#EXTINF:-1 aspect-ratio=None group-title="Музыка",Djind DJS HD
+http://545-tv.com/PREMIUM/NO/KANAL/ZGppbmQtZGpzLWhkXzFfS0lUQVY=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Музыка",Djing Animation HD
+http://545-tv.com/PREMIUM/NO/KANAL/ZGppbmctYW5pbWF0aW9uLWhkXzFfTFhCS0k=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Иностранные",DMAX HD
+http://545-tv.com/PREMIUM/NO/KANAL/RE1BWEhEXzFfUkRKQUE=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Познавательные",DocuBox HD (тест)
+http://545-tv.com/PREMIUM/NO/KANAL/RG9jdUJveC1IRF8xX0pWQ1NG?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Кино",Dorama
+http://545-tv.com/PREMIUM/NO/KANAL/ZG9yYW1hXzE=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Познавательные",DTX
+http://545-tv.com/PREMIUM/NO/KANAL/ZHR4XzFfQ1VTVFA=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Кино",Dubai One HD
+http://545-tv.com/PREMIUM/NO/KANAL/RHViYWktT25lLWhkXzFfV1dGUUk=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Спорт",Dubai Racing HD
+http://545-tv.com/PREMIUM/NO/KANAL/RHViYWlSYWNpbl8x?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Новости",DW
+http://545-tv.com/PREMIUM/NO/KANAL/ZGV1dHNjaGUtd2VsbGVfMV9MV01QTA==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Украина",En TV (Энергодар)
+http://545-tv.com/PREMIUM/NO/KANAL/RW5UVl8x
+#EXTINF:-1 aspect-ratio=None group-title="Развлекательные",English Club TV (резерв)
+http://545-tv.com/PREMIUM/NO/KANAL/ZW5nbGlzaC1jbHViLXR2LXJlemVydl8xX0tUSkxP
+#EXTINF:-1 aspect-ratio=None group-title="Украина",Enter фильм
+http://545-tv.com/PREMIUM/NO/KANAL/ZW50ZXJmaWxtXzFfRVNWQUs=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Взрослое",EROX (18+)
+http://545-tv.com/PREMIUM/NO/KANAL/ZXJveF8xX1NRWUZI?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Познавательные",Eureka HD
+http://545-tv.com/PREMIUM/NO/KANAL/RXVyZWthSERfMQ==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Новости",Euronews
+http://545-tv.com/PREMIUM/NO/KANAL/ZXVyb25ld3MtcmV6ZXJ2XzFfR1FJTEw=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Музыка",Europa Plus TV
+http://545-tv.com/PREMIUM/NO/KANAL/RXVyb3BhUGx1c1RWXzE=
+#EXTINF:-1 aspect-ratio=None group-title="Спорт",Eurosport 1
+http://545-tv.com/PREMIUM/NO/KANAL/RXVyb3Nwb3J0MV8xX0lPRFpC
+#EXTINF:-1 aspect-ratio=None group-title="Спорт",Eurosport 1 HD
+http://545-tv.com/PREMIUM/NO/KANAL/RXVyb3Nwb3J0MS1oZF8xX1BDTk5P?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Спорт",Eurosport 2
+http://545-tv.com/PREMIUM/NO/KANAL/RXVyb3Nwb3J0MjRfMV9UQ0VTUg==
+#EXTINF:-1 aspect-ratio=None group-title="Спорт",Eurosport 2 HD
+http://545-tv.com/PREMIUM/NO/KANAL/RXVyb3Nwb3J0Mi1oZC1yZXplcnZfMV9YVURaVA==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Спорт",Extreme Sports
+http://545-tv.com/PREMIUM/NO/KANAL/ZXh0cmVtZS1zcG9ydHNfMV9LSEFHSw==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Бесплатное",Fantasy
+http://545-tv.com/PREMIUM/NO/KANAL/RmFudGFzeV8xX0NPTkJM?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Спорт",FightBox HD
+http://545-tv.com/PREMIUM/NO/KANAL/RmlnaHRCb3gtSERfMV9NWVVNUg==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Кино",FilMAX HD
+http://545-tv.com/PREMIUM/NO/KANAL/ZmlsbWF4XzFfRk5FWUE=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Общественные",FineLiving
+http://545-tv.com/PREMIUM/NO/KANAL/RmluZUxpdmluZ18x?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Региональные",FM ТВ (Симферополь)
+http://545-tv.com/PREMIUM/NO/KANAL/Zm10dl8xX1lLS0JW?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Общественные",Food Network
+http://545-tv.com/PREMIUM/NO/KANAL/Rm9vZC1OZXR3b3JrXzFfREZPWlo=
+#EXTINF:-1 aspect-ratio=None group-title="Общественные",Foodman club HD
+http://545-tv.com/PREMIUM/NO/KANAL/Rm9vZC1OZXR3b3JraGRfMV9DU01YRQ==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Кино",Fox HD
+http://545-tv.com/PREMIUM/NO/KANAL/Zm94LWhkXzFfVkRFVkc=
+#EXTINF:-1 aspect-ratio=None group-title="Кино",Fox Life
+http://545-tv.com/PREMIUM/NO/KANAL/Rm94TGlmZV8xX1FURVBL?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Новости",France 24
+http://545-tv.com/PREMIUM/NO/KANAL/ZnJhbmNlMjRfMV9CTkFZQg==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Взрослое",FrenchLover TV (18+)
+http://545-tv.com/PREMIUM/NO/KANAL/ZnJlbmNobG92ZXItdHZfMV9URENEWg==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Музыка",Fresh TV
+http://545-tv.com/PREMIUM/NO/KANAL/RnJlc2hUVl8x?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Спорт",Fuel TV HD
+http://545-tv.com/PREMIUM/NO/KANAL/RnVlbFRWSERfMQ==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Познавательные",Galaxy TV
+http://545-tv.com/PREMIUM/NO/KANAL/Z2FsYXh5LXR2XzFfV1daSUE=
+#EXTINF:-1 aspect-ratio=None group-title="Познавательные",Galaxy TV
+http://545-tv.com/PREMIUM/NO/KANAL/R2FsYXh5cmV6XzE=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Разное",Game Show HD
+http://545-tv.com/PREMIUM/NO/KANAL/R2FtZS1TaG93XzFfTVNOSUo=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Детские",Ginger HD
+http://545-tv.com/PREMIUM/NO/KANAL/Z2luZ2VyXzE=
+#EXTINF:-1 aspect-ratio=None group-title="Музыка",Gold TV Music
+http://545-tv.com/PREMIUM/NO/KANAL/Z29sZC10di1tdXNpY18xX0JNUENJ?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Развлекательные",GONG (France)
+http://545-tv.com/PREMIUM/NO/KANAL/R09OR18xX0RCVExL?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Детские",Gulli
+http://545-tv.com/PREMIUM/NO/KANAL/Z3VsbGlfMV9XSEdJVA==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Общественные",H2 Russia HD
+http://545-tv.com/PREMIUM/NO/KANAL/cnVzc2ppeWFoZGhfMV9FUUxOSg==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Кино",HD Media
+http://545-tv.com/PREMIUM/NO/KANAL/aGQtbWVkaWFfMV9UUFlNUw==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Разное",HD Media 3D
+http://545-tv.com/PREMIUM/NO/KANAL/SERNZWRpYTNEXzFfRFZJSEw=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Кино",HDL
+http://545-tv.com/PREMIUM/NO/KANAL/aGQtbGlmZV8xX0NHWkJK
+#EXTINF:-1 aspect-ratio=None group-title="Музыка",Heart TV
+http://545-tv.com/PREMIUM/NO/KANAL/SGVhcnRfMQ==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Музыка",Heavy Metal HD
+http://545-tv.com/PREMIUM/NO/KANAL/SGVhdnlNZXRhbF8xX1pJRUZa?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Общественные",History 2 HD Rus
+http://545-tv.com/PREMIUM/NO/KANAL/aGlzdG9yaTJoZHJ1c18xX0VQTlJJ?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Познавательные",History HD
+http://545-tv.com/PREMIUM/NO/KANAL/aGlzdG9yeS1oZF8xX0ZHS0xa?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Музыка",Hit TV
+http://545-tv.com/PREMIUM/NO/KANAL/aGl0LXR2XzFfUEVQUU8=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Музыка",HIT(Орск) HD
+http://545-tv.com/PREMIUM/NO/KANAL/aGl0aGRfMQ==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Музыка",HITV
+http://545-tv.com/PREMIUM/NO/KANAL/SElUVl8x?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Познавательные",Hunting Action
+http://545-tv.com/PREMIUM/NO/KANAL/SHVudGluZ0FjdGlvbl8x?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Взрослое",Hustler TV (18+)
+http://545-tv.com/PREMIUM/NO/KANAL/aHVzdGxlci10dl8xX01MUk5G?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Взрослое",Hustler TV HD (18+)
+http://545-tv.com/PREMIUM/NO/KANAL/aHVzdGxlci1oZF8xX1FWRERL?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Украина",ICTV
+http://545-tv.com/PREMIUM/NO/KANAL/SUNUVl8xX1RGWUNV?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Разное",ID Fashion HD
+http://545-tv.com/PREMIUM/NO/KANAL/aWQtZmFzaGlvbi1oZF8xX0FIS1FT?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Познавательные",ID Xtra HD
+http://545-tv.com/PREMIUM/NO/KANAL/aWQteHRyYS1oZF8xX1BWRUxG?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Познавательные",Impact
+http://545-tv.com/PREMIUM/NO/KANAL/aW1wYWN0XzE=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Развлекательные",INSIGHT HD
+http://545-tv.com/PREMIUM/NO/KANAL/SU5TSUdIVF8xX1ZIQkVL?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Новости",IZ.RU
+http://545-tv.com/PREMIUM/NO/KANAL/aXpydV8xX1FaSktJ?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Взрослое",Jasmin TV (18+)
+http://545-tv.com/PREMIUM/NO/KANAL/SmFzbWluXzFfWUpLWEE=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Взрослое",Jasmin TV HD (18+)
+http://545-tv.com/PREMIUM/NO/KANAL/amFzbWluLXR2LWhkXzFfTVlMSkE=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Детские",JimJam
+http://545-tv.com/PREMIUM/NO/KANAL/SmltSmFtXzE=
+#EXTINF:-1 aspect-ratio=None group-title="Музыка",Juce TV HD
+http://545-tv.com/PREMIUM/NO/KANAL/SnVjZS1UVl8xX1dMV0xN?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Бесплатное",Kazakh TV
+http://545-tv.com/PREMIUM/NO/KANAL/a2F6YWh0dl8xX0pOVExW?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Бесплатное",KIDS TV
+http://545-tv.com/PREMIUM/NO/KANAL/a2lkc3R2XzFfRUFPTUE=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Музыка",Klipkar TV
+http://545-tv.com/PREMIUM/NO/KANAL/S2xpcGthcl8x?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Музыка",Kronehit HD
+http://545-tv.com/PREMIUM/NO/KANAL/S3JvbmVoaXRfMV9ISVJSRA==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Развлекательные",Kvartal TV
+http://545-tv.com/PREMIUM/NO/KANAL/a3ZhcnRhbC10dl8xX0FTRUpY?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Разное",lale hd
+http://545-tv.com/PREMIUM/NO/KANAL/bGFsZV8x?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Новости",Life78 HD
+http://545-tv.com/PREMIUM/NO/KANAL/bGlmZTc4LWhkXzFfSVBRRk4=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Новости",LifeNews HD
+http://545-tv.com/PREMIUM/NO/KANAL/bGlmZW5ld3MtaGRfMV9XT0NaRw==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Новости",LiveNews
+http://545-tv.com/PREMIUM/NO/KANAL/bGl2ZW5ld3NfMV9QT1BCTA==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Кино",LOST HD
+http://545-tv.com/PREMIUM/NO/KANAL/bG9zdGhkXzFfSkxJRlY=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Познавательные",Luxury World
+http://545-tv.com/PREMIUM/NO/KANAL/bHV4dXJ5LXdvcmxkXzFfTUhUVEw=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Музыка",M One
+http://545-tv.com/PREMIUM/NO/KANAL/bW9uZV8x?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Региональные",M Television (Уфа)
+http://545-tv.com/PREMIUM/NO/KANAL/TVRlbGV2aXNpb25fMQ==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Спорт",M-1 Global TV
+http://545-tv.com/PREMIUM/NO/KANAL/dG9wc29uZy10dl8xX0hTVU5Z?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Музыка",m2otv
+http://545-tv.com/PREMIUM/NO/KANAL/bTJvdHZfMV9RVlNaWA==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Музыка",MAD Music
+http://545-tv.com/PREMIUM/NO/KANAL/TUFETXVzaWNfMQ==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Музыка",MCM TOP
+http://545-tv.com/PREMIUM/NO/KANAL/TUNNLVRPUF8xX0ZHRVRE
+#EXTINF:-1 aspect-ratio=None group-title="Региональные",MediaFM
+http://545-tv.com/PREMIUM/NO/KANAL/TWVkaWFGTV8xX1RUQUpW?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Кино",MGM HD
+http://545-tv.com/PREMIUM/NO/KANAL/bWdtLWhkXzFfSE9RU1Q=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Познавательные",Miami TV HD
+http://545-tv.com/PREMIUM/NO/KANAL/TWlhbWktVFYtTWV4aWNvXzFfR0xLVk4=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Музыка",MIMUSICA HD
+http://545-tv.com/PREMIUM/NO/KANAL/bWltdXNpY2FfMV9LUlNFTg==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Украина",MostVideo HD
+http://545-tv.com/PREMIUM/NO/KANAL/TW9zdFZpZGVvXzE=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Музыка",MTV (Armeniya)
+http://545-tv.com/PREMIUM/NO/KANAL/bXR2LWFtXzFfSk9OQ1Q=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Музыка",MTV (Armeniya) HD
+http://545-tv.com/PREMIUM/NO/KANAL/bXR2LWFtLWhkXzFfUkVXT0g=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Музыка",MTV Dance
+http://545-tv.com/PREMIUM/NO/KANAL/bXR2LWhkXzFfQ0pCWVM=
+#EXTINF:-1 aspect-ratio=None group-title="Музыка",MTV Hits
+http://545-tv.com/PREMIUM/NO/KANAL/bXR2aGl0c18xX0JWT1VW
+#EXTINF:-1 aspect-ratio=None group-title="Музыка",MTV LIVE HD
+http://545-tv.com/PREMIUM/NO/KANAL/bXR2LWxpdmVfMV9RQktORA==
+#EXTINF:-1 aspect-ratio=None group-title="Музыка",MTV Россия
+http://545-tv.com/PREMIUM/NO/KANAL/bXR2cnVzc18x?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Музыка",Music Box
+http://545-tv.com/PREMIUM/NO/KANAL/bXVzaWMtYm94LWVuZ18xX0NHWUlG?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Музыка",Music Box GE
+http://545-tv.com/PREMIUM/NO/KANAL/Qk9YTXVzaWNHRV8x?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Музыка",Music Box RU
+http://545-tv.com/PREMIUM/NO/KANAL/bXVzaWMtYm94LXJ1XzFfV01RUEY=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Музыка",Music Box RU HD
+http://545-tv.com/PREMIUM/NO/KANAL/TXVzaWNCb3hSVUhEXzE=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Музыка",Music Box TV
+http://545-tv.com/PREMIUM/NO/KANAL/bXVzaWMtYm94LXR2XzFfQ01MT1Q=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Музыка",Music Box UA
+http://545-tv.com/PREMIUM/NO/KANAL/bXVzaWMtYm94LXVhXzFfTUhFT1M=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Музыка",Music VOX Old's Cool
+http://545-tv.com/PREMIUM/NO/KANAL/Y21jLXR2XzFfSVFEVUI=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Музыка",MuzTV (Azerbaijan)
+http://545-tv.com/PREMIUM/NO/KANAL/bXV6dHYtYXpfMV9CTVNXRA==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Музыка",Muzzone
+http://545-tv.com/PREMIUM/NO/KANAL/TXV6em9uZV8x?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Познавательные",NASA TV HD
+http://545-tv.com/PREMIUM/NO/KANAL/bmFzYS10dl8xX1ZMRlhB?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Познавательные",Nat Geo Wild
+http://545-tv.com/PREMIUM/NO/KANAL/TmF0LUdlby1XaWxkLXJlemVydl8xX1FRQlVN?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Познавательные",National Geographic
+http://545-tv.com/PREMIUM/NO/KANAL/TmF0aW9uYWwtR2VvZ3JhcGhpYy1DaGFubmVsXzFfQkdSUEs=
+#EXTINF:-1 aspect-ratio=None group-title="Познавательные",National Geographic HD
+http://545-tv.com/PREMIUM/NO/KANAL/bmF0Z2VvaGRfMV9MVkhNWg==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Спорт",NBA
+http://545-tv.com/PREMIUM/NO/KANAL/bmJhXzE=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Новости",NDR HD
+http://545-tv.com/PREMIUM/NO/KANAL/bmRyLWhkXzFfTldaWFM=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Музыка",Nebiset TV
+http://545-tv.com/PREMIUM/NO/KANAL/bmViaXNldF8xX0dEUUJS?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Украина",News 24
+http://545-tv.com/PREMIUM/NO/KANAL/TmV3c2hkXzE=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Детские",Nickelodeon
+http://545-tv.com/PREMIUM/NO/KANAL/bmlja2Vsb2Rlb24tcmV6ZXJ2XzFfQ1dVQUs=
+#EXTINF:-1 aspect-ratio=None group-title="Детские",NICKELODEON HD
+http://545-tv.com/PREMIUM/NO/KANAL/TklDS0VMT0RFT05IRF8x?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Музыка",NRJ Hits HD
+http://545-tv.com/PREMIUM/NO/KANAL/TlJKLUhpdHNfMV9UTk9JWg==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Взрослое",NuArt (+18)
+http://545-tv.com/PREMIUM/NO/KANAL/bnVhcnRoZF8xX01XRkVM?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Музыка",O
+http://545-tv.com/PREMIUM/NO/KANAL/b2hkXzE=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Взрослое",O-la-la (18+)
+http://545-tv.com/PREMIUM/NO/KANAL/by1sYS1sYV8xX0pMSFFK?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Познавательные",Ocean TV
+http://545-tv.com/PREMIUM/NO/KANAL/T2NlYW4tdHZfMV9JQ0lSTg==
+#EXTINF:-1 aspect-ratio=None group-title="Бесплатное",Ocko
+http://545-tv.com/PREMIUM/NO/KANAL/T2Nrb18xX1lYWVRN?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Бесплатное",Ocko Expres
+http://545-tv.com/PREMIUM/NO/KANAL/T2Nrb0V4cHJlc18xX1ZDVktI?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Музыка",One.by
+http://545-tv.com/PREMIUM/NO/KANAL/b25lLWJ5XzFfRlpPTkw=
+#EXTINF:-1 aspect-ratio=None group-title="Музыка",One.by (Россия)
+http://545-tv.com/PREMIUM/NO/KANAL/b25lLWJ5LXJvc3NpYV8xX0VRTUxa
+#EXTINF:-1 aspect-ratio=None group-title="Музыка",One.by HD
+http://545-tv.com/PREMIUM/NO/KANAL/b25lLWJ5LWhkXzFfQVdWUEY=
+#EXTINF:-1 aspect-ratio=None group-title="Музыка",One.by HD (Россия)
+http://545-tv.com/PREMIUM/NO/KANAL/b25lLWJ5LWhkLXJvc3NpYV8xX0FXVEdR
+#EXTINF:-1 aspect-ratio=None group-title="Музыка",One.by Ultra HD (4K)
+http://545-tv.com/PREMIUM/NO/KANAL/b25lLWJ5LXVsdHJhLWhkXzFfWExOQ00=
+#EXTINF:-1 aspect-ratio=None group-title="Украина",OTV
+http://545-tv.com/PREMIUM/NO/KANAL/b3R2dWtyXzE=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Региональные",Outdoor
+http://545-tv.com/PREMIUM/NO/KANAL/T3V0ZG9vcl8x?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Кино",Paramount Channel
+http://545-tv.com/PREMIUM/NO/KANAL/UGFyYW1vdW50Q2hhbm5lbF8x?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Кино",Paramount Comedy HD
+http://545-tv.com/PREMIUM/NO/KANAL/cGFyYW1vdW50LWNvbWVkeS1oZF8xX1dLTlFW
+#EXTINF:-1 aspect-ratio=None group-title="Музыка",Polo Party HD
+http://545-tv.com/PREMIUM/NO/KANAL/cG9sby1wYXJ0eS1oZF8xX1FBVkJU?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Взрослое",Private (18+) (тест)
+http://545-tv.com/PREMIUM/NO/KANAL/cHJpdmF0ZV8xX0JJUUFF?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Музыка",Promo DJ TV
+http://545-tv.com/PREMIUM/NO/KANAL/UHJvbW9ESl8x?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Новости",Publika Tv HD
+http://545-tv.com/PREMIUM/NO/KANAL/UHVibGlrYVR2XzFfUlJSQUM=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Бесплатное",Radio 105 TV
+http://545-tv.com/PREMIUM/NO/KANAL/cmFkaW8xMDV0dl8xX0hSWkRQ?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Музыка",Radio Monte Carlo TV
+http://545-tv.com/PREMIUM/NO/KANAL/cmFkaW8tbW9udGUtY2FybG8tdHZfMV9DVkNEUQ==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Познавательные",Rai 5
+http://545-tv.com/PREMIUM/NO/KANAL/cmFpNV8xX01MVUlB?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Кино",Rai Premium
+http://545-tv.com/PREMIUM/NO/KANAL/cmFpLXByZW1pdW1fMV9aUVJSVw==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Детские",Rai YoYo
+http://545-tv.com/PREMIUM/NO/KANAL/cmFpLXlvLXlvXzFfWU1CV1c=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Спорт",REAL MADRID TV
+http://545-tv.com/PREMIUM/NO/KANAL/cmVhbC1tYWRyaWQtdHZfMV9UUUhCTw==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Взрослое",Redlight HD (18+)
+http://545-tv.com/PREMIUM/NO/KANAL/cmVkbGlnaHQtaGRfMV9HTk9JTA==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Развлекательные",Relax.TV
+http://545-tv.com/PREMIUM/NO/KANAL/cmVsYXgtdHZfMV9QSVdWVg==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Развлекательные",RETRO TV
+http://545-tv.com/PREMIUM/NO/KANAL/UkVUUk8tVFYtQ1pfMV9UUkVHQg==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Музыка",Roma TV
+http://545-tv.com/PREMIUM/NO/KANAL/cm9tYS10dl8xX0tGT1NU
+#EXTINF:-1 aspect-ratio=None group-title="Музыка",Roma TV HD
+http://545-tv.com/PREMIUM/NO/KANAL/cm9tYS10di1oZF8xX0RSTE1Y
+#EXTINF:-1 aspect-ratio=None group-title="Новости",RT (резерв)
+http://545-tv.com/PREMIUM/NO/KANAL/cnQtcmV6ZXJ2XzFfQ0dWVVo=
+#EXTINF:-1 aspect-ratio=None group-title="Новости",RT RUS
+http://545-tv.com/PREMIUM/NO/KANAL/cnRfMQ==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Общественные",RT Док
+http://545-tv.com/PREMIUM/NO/KANAL/cnRkb2tfMV9JTFRFTQ==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Познавательные",RTG
+http://545-tv.com/PREMIUM/NO/KANAL/UlRHLVNEXzFfVUtEVkg=
+#EXTINF:-1 aspect-ratio=None group-title="Украина",RTI HD
+http://545-tv.com/PREMIUM/NO/KANAL/UlRJXzE=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Развлекательные",RTVi
+http://545-tv.com/PREMIUM/NO/KANAL/cnR2aV8xX1RYQlBB?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Музыка",RU TV
+http://545-tv.com/PREMIUM/NO/KANAL/cnUtdHYtcmV6ZXJ2XzFfWVdHVEc=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Музыка",RU TV (Молдова)
+http://545-tv.com/PREMIUM/NO/KANAL/cnUtdHYtbW9sZGF2YV8xX1FSQ1hP?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Музыка",Rusong TV
+http://545-tv.com/PREMIUM/NO/KANAL/cnVzb25nLXR2XzFfQkxCRUo=
+#EXTINF:-1 aspect-ratio=None group-title="Музыка",RUSSIAN MUSICBOX HD
+http://545-tv.com/PREMIUM/NO/KANAL/cnVzc2lhbm11c2ljYm94aGRfMQ==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Бесплатное",SAUDI-QURAN
+http://545-tv.com/PREMIUM/NO/KANAL/c2F1ZGlfMV9XUU9OVg==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Кино",SET HD
+http://545-tv.com/PREMIUM/NO/KANAL/c2V0aGRfMV9CWFRMUQ==
+#EXTINF:-1 aspect-ratio=None group-title="Спорт",Setanta Sports HD
+http://545-tv.com/PREMIUM/NO/KANAL/U2V0YW50YS1TcG9ydHNfMV9GWUZLTg==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Спорт",Setanta Sports+ HD
+http://545-tv.com/PREMIUM/NO/KANAL/U2V0YW50YS1TcG9ydHMtcGx1c18xX0tNRkhP?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Взрослое",Sextosenso (18+)
+http://545-tv.com/PREMIUM/NO/KANAL/c2V4dG9zZW5zb18xX0VVQ05Q?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Телемагазины",Shopping Live TV (резерв)
+http://545-tv.com/PREMIUM/NO/KANAL/c2hvcHBpbmctbGl2ZV8xX05JVkRJ?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Познавательные",SilenceTV HD
+http://545-tv.com/PREMIUM/NO/KANAL/U2lsZW5jZVRWXzE=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Спорт",Sky Sport 3 HD
+http://545-tv.com/PREMIUM/NO/KANAL/U2t5U3BvcnQxXzFfUlBOWEQ=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Спорт",Sky Sport 5 HD
+http://545-tv.com/PREMIUM/NO/KANAL/c2t5c3BvcnRzREUyXzE=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Спорт",SKY SPORT1 HD BUNDESLIGA
+http://545-tv.com/PREMIUM/NO/KANAL/c2t5LXNwb3J0NV8xX1NaTVpR?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Спорт",Sky Tg24
+http://545-tv.com/PREMIUM/NO/KANAL/c2t5LXRoMjRfMV9ETExCWQ==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Кино",Sky1000 Cinema HD
+http://545-tv.com/PREMIUM/NO/KANAL/c2t5MTAwMGNpbmVtYV8xX0dQUFBD?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Кино",Sky1000 Hebrew HD
+http://545-tv.com/PREMIUM/NO/KANAL/c2t5MTAwMGhlYl8xX0dGWkxS?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Кино",Sky1000 Russian HD
+http://545-tv.com/PREMIUM/NO/KANAL/c2t5MTAwMHJ1c3NfMV9ZWkJUQw==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Музыка",Slam TV HD
+http://545-tv.com/PREMIUM/NO/KANAL/U2xhbS1UVl8xX1ZNSU9C?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Кино",Sony Sci-Fi
+http://545-tv.com/PREMIUM/NO/KANAL/c29ueXNjaWZpXzFfVEpEU1E=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Кино",Sony Turbo
+http://545-tv.com/PREMIUM/NO/KANAL/U29ueS1UdXJib18xX1RMTEtI?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Кино",Spike HD
+http://545-tv.com/PREMIUM/NO/KANAL/U3Bpa2VIRF8xX0NPWE1M?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Музыка",Spirit Television HD
+http://545-tv.com/PREMIUM/NO/KANAL/c3ByaW50LXR2LWhkXzFfWFpISlM=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Спорт",Sport 1 (Украина)
+http://545-tv.com/PREMIUM/NO/KANAL/c3BvcnQxLXVhXzFfRllDUkc=
+#EXTINF:-1 aspect-ratio=None group-title="Музыка",Standby TV
+http://545-tv.com/PREMIUM/NO/KANAL/U3RhbmRieS1UVl8xX1FWWExB?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Кино",STR TV
+http://545-tv.com/PREMIUM/NO/KANAL/c3RydHZfMV9ETkpRUg==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Музыка",Tigiboo HD
+http://545-tv.com/PREMIUM/NO/KANAL/VGlnaWJvb2hkXzE=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Детские",Tiji
+http://545-tv.com/PREMIUM/NO/KANAL/VGlqaXJlel8x
+#EXTINF:-1 aspect-ratio=None group-title="Новости",Tirol TV (Deutsch)
+http://545-tv.com/PREMIUM/NO/KANAL/dGlyb2wtdHZfMV9BQVFSRQ==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Разное",Tochka TV
+http://545-tv.com/PREMIUM/NO/KANAL/VG9jaGthXzFfT1pJRFo=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Кино",TOP Cinema HD
+http://545-tv.com/PREMIUM/NO/KANAL/dG9wY2luZW1haGRfMV9IVU5FRQ==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Кино",Top Horror HD
+http://545-tv.com/PREMIUM/NO/KANAL/VE9QSG9ycm9yXzFfSEVORkE=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Телемагазины",Top Shop TV
+http://545-tv.com/PREMIUM/NO/KANAL/dG9wLXNob3AtdHZfMV9VWllDUw==
+#EXTINF:-1 aspect-ratio=None group-title="Телемагазины",Top Shop TV (резерв)
+http://545-tv.com/PREMIUM/NO/KANAL/dG9wLXNob3AtdHYtcmV6ZXJ2XzFfUFNGS1M=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Разное",TR!CK
+http://545-tv.com/PREMIUM/NO/KANAL/dHJpY2tfMQ==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Иностранные",TRT 1 HD
+http://545-tv.com/PREMIUM/NO/KANAL/VFJUSERfMQ==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Региональные",TV Pro
+http://545-tv.com/PREMIUM/NO/KANAL/VFZQcm9fMQ==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Познавательные",TV-MIX
+http://545-tv.com/PREMIUM/NO/KANAL/VFYtTUlYXzFfT1JWR1M=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Кино",TV1000
+http://545-tv.com/PREMIUM/NO/KANAL/dHYxMDAwXzFfUURTR1k=
+#EXTINF:-1 aspect-ratio=None group-title="Кино",TV1000 Action
+http://545-tv.com/PREMIUM/NO/KANAL/dHYxMDAwLWFjdGlvbl8xX1FEQUVR?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Кино",TV1000 Action HD
+http://545-tv.com/PREMIUM/NO/KANAL/dHYxMDAwLWFjdGlvbi1oZF8xX1lESEZW?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Кино",TV1000 HD
+http://545-tv.com/PREMIUM/NO/KANAL/dHYxMDAwaGRfMV9LVUFYRQ==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Кино",TV1000 World Kino
+http://545-tv.com/PREMIUM/NO/KANAL/dHYxMDAwd2tfMV9XT1VGRA==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Кино",TV1000 Русское кино
+http://545-tv.com/PREMIUM/NO/KANAL/dHYxMDAwLXJpc3Nrb2Uta2lub18xX1dGRllC?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Кино",TV1000 Русское кино HD
+http://545-tv.com/PREMIUM/NO/KANAL/dHYxMDAwLXJpc3Nrb2Uta2luby1oZF8xX1BLWUtD?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Музыка",TVM Channel
+http://545-tv.com/PREMIUM/NO/KANAL/VFZNLUNoYW5uZWxfMV9PV1lCWA==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Музыка",TVM3 HD
+http://545-tv.com/PREMIUM/NO/KANAL/VFZNM0hEXzE=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Украина",UA TV
+http://545-tv.com/PREMIUM/NO/KANAL/dWF0dl8x?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Развлекательные",Univer Smotri HD
+http://545-tv.com/PREMIUM/NO/KANAL/dW5pdmVyLXNtb3RyaS1oZF8xX1FWWFFP?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Познавательные",Unknown Planet HD
+http://545-tv.com/PREMIUM/NO/KANAL/VW5rbm93blBsYW5ldF8xX1VaRE1a?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Музыка",UTV Music
+http://545-tv.com/PREMIUM/NO/KANAL/VVRWTXVzaWNfMQ==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Музыка",VH1
+http://545-tv.com/PREMIUM/NO/KANAL/dmgxXzFfTlVETVA=
+#EXTINF:-1 aspect-ratio=None group-title="Музыка",VH1 Classic
+http://545-tv.com/PREMIUM/NO/KANAL/dmgxLWNsYXNzaWNfMV9NU1hWQg==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Познавательные",Viasat Explorer
+http://545-tv.com/PREMIUM/NO/KANAL/Vmlhc2F0LUV4cGxvcmVyM18x
+#EXTINF:-1 aspect-ratio=None group-title="Познавательные",Viasat History
+http://545-tv.com/PREMIUM/NO/KANAL/Vmlhc2F0LUhpc3RvcnkzXzFfSUNZRVU=
+#EXTINF:-1 aspect-ratio=None group-title="Познавательные",Viasat Nature
+http://545-tv.com/PREMIUM/NO/KANAL/dmlhc2F0bmF0dXJfMV9WSFlCVg==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Спорт",Viasat Sport
+http://545-tv.com/PREMIUM/NO/KANAL/Vmlhc2F0LVNwb3J0XzE=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Спорт",Viasat Sport HD
+http://545-tv.com/PREMIUM/NO/KANAL/dmlhc2F0c3BvcnRoZF8x?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Кино",ViP Comedy HD
+http://545-tv.com/PREMIUM/NO/KANAL/dHYxMDAwLWNvbWVkeS1oZF8xX0lZWkdB?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Кино",ViP Megahit HD
+http://545-tv.com/PREMIUM/NO/KANAL/dHYxMDAwLW1lZ2FoaXQtaGRfMV9OTVhKSA==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Кино",ViP Premiere HD
+http://545-tv.com/PREMIUM/NO/KANAL/dHYxMDAwLXByZW1pdW0taGRfMV9DRlFQWA==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Музыка",Virgin TV
+http://545-tv.com/PREMIUM/NO/KANAL/VmlyZ2luLVRWXzFfVElMSVk=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Взрослое",Visit-X (18+) HD
+http://545-tv.com/PREMIUM/NO/KANAL/VmlzaXR4XzFfWENSRlQ=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Разное",World Fashion
+http://545-tv.com/PREMIUM/NO/KANAL/d29ybGQtRmFzaGlvbi1DaGFubmVsXzFfTUZIQ0w=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Разное",World Fashion HD
+http://545-tv.com/PREMIUM/NO/KANAL/d29ybGQtRmFzaGlvbi1DaGFubmVsLWhkXzFfSkJaRk0=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Спорт",XSport (Украина)
+http://545-tv.com/PREMIUM/NO/KANAL/eHNwb3J0LXVhXzFfUkhHU1o=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Кино",XXI
+http://545-tv.com/PREMIUM/NO/KANAL/eHhpXzFfRUJIQkM=
+#EXTINF:-1 aspect-ratio=None group-title="Кино",XXI (резерв)
+http://545-tv.com/PREMIUM/NO/KANAL/eHhpLXJlemVydl8xX0JMTEhO
+#EXTINF:-1 aspect-ratio=None group-title="Кино",Zee TV
+http://545-tv.com/PREMIUM/NO/KANAL/emVlLXR2XzFfT1NaQ0E=
+#EXTINF:-1 aspect-ratio=None group-title="Познавательные",Zoo
+http://545-tv.com/PREMIUM/NO/KANAL/em9vcGFyay1yZXplcnZfMV9TS1JKRQ==
+#EXTINF:-1 aspect-ratio=None group-title="Мужские",Авто 24
+http://545-tv.com/PREMIUM/NO/KANAL/YXZ0bzI0cmV6XzE=
+#EXTINF:-1 aspect-ratio=None group-title="Украина",Алекс Запоріжжя
+http://545-tv.com/PREMIUM/NO/KANAL/YWxleHphcF8x?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Бесплатное",Алматы TV
+http://545-tv.com/PREMIUM/NO/KANAL/YWxtYXRpdHZfMV9DWVVOUg==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Развлекательные",Анекдот ТВ
+http://545-tv.com/PREMIUM/NO/KANAL/YW5la2RvdHR2XzE=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Украина",Антена-Плюс
+http://545-tv.com/PREMIUM/NO/KANAL/YW50ZW5hXzE=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Общественные",АригУс 24
+http://545-tv.com/PREMIUM/NO/KANAL/YXJpZ3VzMjRfMV9IVlZaWg==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Региональные",Архыз 24
+http://545-tv.com/PREMIUM/NO/KANAL/YXJoeXoyNF8xX1FNWUVG?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Региональные",Астрахань HD
+http://545-tv.com/PREMIUM/NO/KANAL/YXN0cmFoYW4taGRfMV9YWUtIWg==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Региональные",Астрахань.Ru
+http://545-tv.com/PREMIUM/NO/KANAL/YXN0cmFoYW5ydV8xX0FXUE5C?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Разное",АТР
+http://545-tv.com/PREMIUM/NO/KANAL/YXRyXzE=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Региональные",Афонтово
+http://545-tv.com/PREMIUM/NO/KANAL/YWZvbnRvdm9fMV9aTFZRTQ==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Бесплатное",Баланс ТВ
+http://545-tv.com/PREMIUM/NO/KANAL/YmFsYW5zdHZfMV9VVVBDUw==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Региональные",Беларусь 24
+http://545-tv.com/PREMIUM/NO/KANAL/YmVsYXJ1cy0yNF8xX01ITlJZ
+#EXTINF:-1 aspect-ratio=None group-title="Бесплатное",БелРос
+http://545-tv.com/PREMIUM/NO/KANAL/YmVscm9zLXR2XzFfVURORk8=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Познавательные",Бобёр ТВ
+http://545-tv.com/PREMIUM/NO/KANAL/Ym9iZXItdHZfMV9HTFBEUA==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Бесплатное",Бойцовский Дух
+http://545-tv.com/PREMIUM/NO/KANAL/Ym95Y292c2tpamR1aF8xX0ZNQlZD?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Спорт",Бокс ТВ
+http://545-tv.com/PREMIUM/NO/KANAL/Ym9rcy10dl8x?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Спорт",БОКС ТВ HD
+http://545-tv.com/PREMIUM/NO/KANAL/Ym9rcy10di1oZF8x?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Бесплатное",Большая Азия
+http://545-tv.com/PREMIUM/NO/KANAL/Ym9sc2hheWFhemlhXzFfQklBT0o=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Украина",Буковина
+http://545-tv.com/PREMIUM/NO/KANAL/QlVLT1ZJTkFfMV9UUVdLRg==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Телемагазины",Бум ТВ HD
+http://545-tv.com/PREMIUM/NO/KANAL/YnVtdHZfMQ==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Детские",В гостях у сказки
+http://545-tv.com/PREMIUM/NO/KANAL/c2themthZGV0XzE=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Познавательные",В мире животных HD
+http://545-tv.com/PREMIUM/NO/KANAL/QW5pbWFsX0ZhbWlsaV9IRF8xX05UQ0dM
+#EXTINF:-1 aspect-ratio=None group-title="Детские",Веселая карусель HD
+http://545-tv.com/PREMIUM/NO/KANAL/dmVzZWxhamFfa2FydXNlbF8xX1NRVUtQ?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Новости",Вести FM HD
+http://545-tv.com/PREMIUM/NO/KANAL/dmVzdGktZm1fMV9QVkdUSQ==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Телемагазины",Витрина ТВ HD
+http://545-tv.com/PREMIUM/NO/KANAL/dml0cmluYWhkXzFfUExISlU=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Новости",Вместе-РФ
+http://545-tv.com/PREMIUM/NO/KANAL/dm1lc3RlLXJmXzFfRldRUFE=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Развлекательные",Вопросы и ответы
+http://545-tv.com/PREMIUM/NO/KANAL/dm9wcm9zeS1pLW90dmV0eV8xX1VORUVa
+#EXTINF:-1 aspect-ratio=None group-title="Общественные",Восьмой канал
+http://545-tv.com/PREMIUM/NO/KANAL/dm9zZW1fMQ==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Новости",Время
+http://545-tv.com/PREMIUM/NO/KANAL/dnJlbXlhXzFfWVVBRVc=
+#EXTINF:-1 aspect-ratio=None group-title="Новости",Всё тв
+http://545-tv.com/PREMIUM/NO/KANAL/dnNlLXR2XzFfT05SQ1Y=
+#EXTINF:-1 aspect-ratio=None group-title="Региональные",Вся Уфа
+http://545-tv.com/PREMIUM/NO/KANAL/dnN5YS11ZmFfMV9ERVVHRA==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Бесплатное",Галичина
+http://545-tv.com/PREMIUM/NO/KANAL/Z2F2Y2hpbmFfMV9USVNHTw==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Познавательные",Глазами туриста HD
+http://545-tv.com/PREMIUM/NO/KANAL/Z2xhemFtaS10dXJpc3RhXzFfRUpFTEw=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Украина",Горизонт ТВ
+http://545-tv.com/PREMIUM/NO/KANAL/Z29yaXpvbnRfMQ==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Бесплатное",Горная страна HD
+http://545-tv.com/PREMIUM/NO/KANAL/Z29ybmF5YS1zdHJhbmFfMV9IUVVZUA==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Региональные",Грозный ТВ
+http://545-tv.com/PREMIUM/NO/KANAL/Z3Jvem55ai10dl8xX1dBVVFF?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Украина",Громадське HD
+http://545-tv.com/PREMIUM/NO/KANAL/Z3JvbWFkc2tlXzFfUUhKU0g=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Разное",Губерния
+http://545-tv.com/PREMIUM/NO/KANAL/Z3ViZXJuaXlhXzE=
+#EXTINF:-1 aspect-ratio=None group-title="Бесплатное",Губерния (Самара)
+http://545-tv.com/PREMIUM/NO/KANAL/c2FtYXJhLXR2XzFfSk1EQ0w=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Региональные",Дагестан ТВ
+http://545-tv.com/PREMIUM/NO/KANAL/ZGFnZXN0YXQtdHZfMV9IWUhRSw==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Познавательные",Дайвинг ТВ
+http://545-tv.com/PREMIUM/NO/KANAL/ZGFpdmluZy10dl8xX1VTV1dN?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Детские",Детский
+http://545-tv.com/PREMIUM/NO/KANAL/ZGV0c2tpeV8xX1BNU1dL
+#EXTINF:-1 aspect-ratio=None group-title="Мужские",Диалоги о рыбалке
+http://545-tv.com/PREMIUM/NO/KANAL/ZGlhbG9naW9yaWJhbGtlXzFfQlRLQ0Y=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Мужские",Дикий (тест)
+http://545-tv.com/PREMIUM/NO/KANAL/ZGlraWpfMQ==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Новости",Дождь
+http://545-tv.com/PREMIUM/NO/KANAL/ZG96aGRfMV9DRFZMTw==
+#EXTINF:-1 aspect-ratio=None group-title="Познавательные",Доктор
+http://545-tv.com/PREMIUM/NO/KANAL/ZG9jdG9yXzE=
+#EXTINF:-1 aspect-ratio=None group-title="Познавательные",Доктор Градус ТВ
+http://545-tv.com/PREMIUM/NO/KANAL/ZG9jdG9yLWdyYWR1c18xX1JVVFJY?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Кино",Дом кино
+http://545-tv.com/PREMIUM/NO/KANAL/ZG9tLWtpbm9fMV9FS1lUVQ==
+#EXTINF:-1 aspect-ratio=None group-title="Кино",Дом Кино Премиум HD
+http://545-tv.com/PREMIUM/NO/KANAL/ZG9tLWtpbm8tcHJlbWl1bS1oZF8xX1lOTEFW?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Развлекательные",Домашние животные
+http://545-tv.com/PREMIUM/NO/KANAL/ZG9tYXNoaWUtemhpdm90bnllXzFfTFdBR1M=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Общественные",Домашний
+http://545-tv.com/PREMIUM/NO/KANAL/ZG9tYXNobml5XzFfQktHTVA=
+#EXTINF:-1 aspect-ratio=None group-title="Общественные",Домашний +4
+http://545-tv.com/PREMIUM/NO/KANAL/ZG9tYXNobml5KzRfMQ==
+#EXTINF:-1 aspect-ratio=None group-title="Новости",ДОН 24
+http://545-tv.com/PREMIUM/NO/KANAL/ZG9uMjRfMV9MQ0NZQg==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Мужские",Драйв
+http://545-tv.com/PREMIUM/NO/KANAL/ZHJpdmVfMQ==
+#EXTINF:-1 aspect-ratio=None group-title="Украина",Думская тв hd
+http://545-tv.com/PREMIUM/NO/KANAL/ZHVtc2theWFfMQ==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Кино",Еврокино
+http://545-tv.com/PREMIUM/NO/KANAL/ZXZyb2tpbm9fMV9XQ1dVTg==
+#EXTINF:-1 aspect-ratio=None group-title="Познавательные",ЕГЕ ТВ
+http://545-tv.com/PREMIUM/NO/KANAL/ZWRldHZfMQ==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Общественные",Еда HD
+http://545-tv.com/PREMIUM/NO/KANAL/ZWRhLWhkLXJlemVydl8xX0NPTU9V?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Детские",Ералаш HD
+http://545-tv.com/PREMIUM/NO/KANAL/dGx1bWhkcmV6XzFfV0RBWUM=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Музыка",Жара
+http://545-tv.com/PREMIUM/NO/KANAL/emhhcmFfMV9RU0NERg==
+#EXTINF:-1 aspect-ratio=None group-title="Развлекательные",Живи!
+http://545-tv.com/PREMIUM/NO/KANAL/emhpdmlfMV9URElLUw==
+#EXTINF:-1 aspect-ratio=None group-title="Общественные",Звезда
+http://545-tv.com/PREMIUM/NO/KANAL/enZlemRhXzFfU0RTWFY=
+#EXTINF:-1 aspect-ratio=None group-title="Познавательные",Здоровое ТВ
+http://545-tv.com/PREMIUM/NO/KANAL/emRvcm92b2UtdHZfMV9LRktYSA==
+#EXTINF:-1 aspect-ratio=None group-title="Развлекательные",Зоопарк
+http://545-tv.com/PREMIUM/NO/KANAL/em9vcGFya18xX1BGUlBF
+#EXTINF:-1 aspect-ratio=None group-title="Бесплатное",ИКС
+http://545-tv.com/PREMIUM/NO/KANAL/SWtjXzFfU1JMTlg=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Кино",Иллюзион+
+http://545-tv.com/PREMIUM/NO/KANAL/aWxseXV6aW9uXzFfQlNSUFI=
+#EXTINF:-1 aspect-ratio=None group-title="Региональные",Ингушетия ТВ
+http://545-tv.com/PREMIUM/NO/KANAL/aW5ndXNoZXRpamFfMV9ZUFJRQg==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Украина",Интер
+http://545-tv.com/PREMIUM/NO/KANAL/aW50ZXJ1a3JfMV9BS0pFVA==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Региональные",Интерра ТВ
+http://545-tv.com/PREMIUM/NO/KANAL/aW50ZXJyYS10dl8xX0pSUlRY?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Взрослое",Искушение (18+)
+http://545-tv.com/PREMIUM/NO/KANAL/aXNrdXNoZW5pZV8xX1JPSUdL?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Региональные",ИТВ Крым
+http://545-tv.com/PREMIUM/NO/KANAL/aXR2LWtyeW1fMV9ET1JBVg==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Общественные",Июнь HD
+http://545-tv.com/PREMIUM/NO/KANAL/aXl1bmhkXzFfTEhNWlc=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Украина",К1
+http://545-tv.com/PREMIUM/NO/KANAL/azFfMQ==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Познавательные",Калейдоскоп ТВ
+http://545-tv.com/PREMIUM/NO/KANAL/a2FsZWpkb3Nrb3AtdHZfMV9aVElPTQ==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Детские",Карапуз ТВ HD
+http://545-tv.com/PREMIUM/NO/KANAL/a2FyYXB1ei10dl8xX0hZV0pQ?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Детские",Карусель
+http://545-tv.com/PREMIUM/NO/KANAL/a2FydXNlbF8xX1dGUVFU
+#EXTINF:-1 aspect-ratio=None group-title="Развлекательные",КВН ТВ
+http://545-tv.com/PREMIUM/NO/KANAL/a3ZuLXR2XzFfTVNOVkU=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Украина",Киев
+http://545-tv.com/PREMIUM/NO/KANAL/a2lldl8x?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Кино",Кино ТВ
+http://545-tv.com/PREMIUM/NO/KANAL/a2lub3Jlel8x
+#EXTINF:-1 aspect-ratio=None group-title="Кино",Кино ТВ HD
+http://545-tv.com/PREMIUM/NO/KANAL/a2luby10di1oZF8xX1hDWklY
+#EXTINF:-1 aspect-ratio=None group-title="Кино",Кинокомедия
+http://545-tv.com/PREMIUM/NO/KANAL/a29tZWRpeWEtdHZfMV9RSkJRUA==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Кино",Киномикс
+http://545-tv.com/PREMIUM/NO/KANAL/a2lub3BsdXNfMV9OUFRJSg==
+#EXTINF:-1 aspect-ratio=None group-title="Кино",Кинопоказ
+http://545-tv.com/PREMIUM/NO/KANAL/a2lub3Bva2F6LXJlemVydl8xX1BLS0JU?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Кино",Кинопоказ 2 HD
+http://545-tv.com/PREMIUM/NO/KANAL/a2lub3Bva2F6LWhkMl8xX1RVRVFX?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Кино",КиноПремиум HD
+http://545-tv.com/PREMIUM/NO/KANAL/a2luby1wcmVtaXVtLWhkXzFfS1pRU1g=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Кино",Кинопремьера HD
+http://545-tv.com/PREMIUM/NO/KANAL/aGQta2lub18xX1NFTUVP?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Кино",Киносвидание
+http://545-tv.com/PREMIUM/NO/KANAL/a2lub2tsdWJfMV9WWldHWg==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Кино",Киносемья
+http://545-tv.com/PREMIUM/NO/KANAL/cHJlbWVyYV8xX1RHT09a?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Кино",Киносерия
+http://545-tv.com/PREMIUM/NO/KANAL/bW5vZ28tdHZfMQ==
+#EXTINF:-1 aspect-ratio=None group-title="Кино",Кинохит
+http://545-tv.com/PREMIUM/NO/KANAL/a2lub2hpdF8xX1BOS1pT?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Бесплатное",Классика Кино
+http://545-tv.com/PREMIUM/NO/KANAL/bmFzaF9raW5vcm9tYW5fcmV6XzFfWENGS0E=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Познавательные",Космос ТВ HD
+http://545-tv.com/PREMIUM/NO/KANAL/a29zbW9zdHZoZF8x?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Новости",Красная линия
+http://545-tv.com/PREMIUM/NO/KANAL/a3Jhem5heWEtbGluaXlhXzFfVllSSEQ=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Региональные",Крик ТВ
+http://545-tv.com/PREMIUM/NO/KANAL/a3Jpay10dl8xX0lQQklY?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Детские",Кроха ТВ
+http://545-tv.com/PREMIUM/NO/KANAL/a3JvaGFfMQ==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Региональные",Крым 1 HD
+http://545-tv.com/PREMIUM/NO/KANAL/a3J5bS0xLWhkXzFfQ0FWRFI=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Региональные",Крым 24 HD
+http://545-tv.com/PREMIUM/NO/KANAL/a3J5bS0yNC1oZF8xX0ZYSE5Y?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Разное",КТК
+http://545-tv.com/PREMIUM/NO/KANAL/a3RrXzFfSUJDTFg=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Украина",Культура UA
+http://545-tv.com/PREMIUM/NO/KANAL/a3VsdHVydWtfMQ==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Телемагазины",Купить Дом ТВ HD
+http://545-tv.com/PREMIUM/NO/KANAL/YnV5LWhvbWUtdHYtaGRfMV9ZR1FWSQ==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Музыка",Курай ТВ
+http://545-tv.com/PREMIUM/NO/KANAL/a3VyYXktdHZfMV9FS09IVA==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Спорт",КХЛ
+http://545-tv.com/PREMIUM/NO/KANAL/a2hsXzE=
+#EXTINF:-1 aspect-ratio=None group-title="Спорт",КХЛ (резерв)
+http://545-tv.com/PREMIUM/NO/KANAL/a2hsLXJlemVydl8x
+#EXTINF:-1 aspect-ratio=None group-title="Спорт",КХЛ HD
+http://545-tv.com/PREMIUM/NO/KANAL/a2hsLWhkLXJlemVydjNfMQ==
+#EXTINF:-1 aspect-ratio=None group-title="Новости",ЛДПР ТВ (360р)
+http://545-tv.com/PREMIUM/NO/KANAL/bGRwci10di0zNjBfMV9SUVZCVA==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Новости",ЛДПР ТВ (480р)
+http://545-tv.com/PREMIUM/NO/KANAL/bGRwci10di00ODBfMV9DRkhPUw==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Новости",ЛДПР ТВ HD (720р)
+http://545-tv.com/PREMIUM/NO/KANAL/bGRwci10di1oZF8xX1pPU1FV?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Детские",Любимое ТВ
+http://545-tv.com/PREMIUM/NO/KANAL/bHl1Ymltb2UtdHZfMV9FQ1VLSg==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Бесплатное",Любимый HD
+http://545-tv.com/PREMIUM/NO/KANAL/bHl1YmltaXloZF8xX0RPQVZa?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Музыка",Ля-Минор
+http://545-tv.com/PREMIUM/NO/KANAL/bHlhLW1pbm9yLXJlemVydl8x
+#EXTINF:-1 aspect-ratio=None group-title="Общественные",Магия кухни
+http://545-tv.com/PREMIUM/NO/KANAL/bWFnaXlha3V4bmlfMV9ZSlBXTQ==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Региональные",Макс 24 HD
+http://545-tv.com/PREMIUM/NO/KANAL/bWFrc2hkXzFfTFJCUE0=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Украина",Малятко
+http://545-tv.com/PREMIUM/NO/KANAL/bWFseWF0a29fMQ==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Детские",Мама
+http://545-tv.com/PREMIUM/NO/KANAL/bWFtYV8x
+#EXTINF:-1 aspect-ratio=None group-title="Спорт",Матч! HD
+http://545-tv.com/PREMIUM/NO/KANAL/bWF0Y2hoZF8xX0hXVURB?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Спорт",МАТЧ! Арена
+http://545-tv.com/PREMIUM/NO/KANAL/bWF0Y2gtYXJlbmFfMV9KTVFJVQ==
+#EXTINF:-1 aspect-ratio=None group-title="Спорт",Матч! Боец
+http://545-tv.com/PREMIUM/NO/KANAL/bWF0Y2gtYm9ldHpfMQ==
+#EXTINF:-1 aspect-ratio=None group-title="Спорт",Матч! Игра
+http://545-tv.com/PREMIUM/NO/KANAL/bWF0Y2gtaWdyYS1oZF8x
+#EXTINF:-1 aspect-ratio=None group-title="Спорт",Матч! Игра HD
+http://545-tv.com/PREMIUM/NO/KANAL/bWF0Y2gtdHYtaGRfMV9YRVNWUw==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Спорт",Матч! Наш Спорт
+http://545-tv.com/PREMIUM/NO/KANAL/bmFzaHNwb3J0XzE=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Спорт",Матч! Планета
+http://545-tv.com/PREMIUM/NO/KANAL/bWF0Y2gtcGxhbmV0YV8xX1hZU0tS?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Спорт",Матч! ТВ
+http://545-tv.com/PREMIUM/NO/KANAL/bWF0Y2gtdHZfMV9HSUJXUw==
+#EXTINF:-1 aspect-ratio=None group-title="Спорт",Матч! ТВ (резерв1)
+http://545-tv.com/PREMIUM/NO/KANAL/bWF0Y2gtdHYtcmV6ZXJ2XzFfR1lUU0E=
+#EXTINF:-1 aspect-ratio=None group-title="Спорт",Матч! Футбол 1
+http://545-tv.com/PREMIUM/NO/KANAL/ZnV0Ym9sMS1zZF8xX1pFWVFP?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Спорт",Матч! Футбол 1 HD
+http://545-tv.com/PREMIUM/NO/KANAL/ZnV0Ym9sMS1yZXplcnZfMV9VQVlYSg==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Спорт",Матч! Футбол 2
+http://545-tv.com/PREMIUM/NO/KANAL/ZnV0Ym9sMi1zZF8xX1ZJWkRZ?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Спорт",Матч! Футбол 2 HD
+http://545-tv.com/PREMIUM/NO/KANAL/ZnV0Ym9sMl8xX1JXVFNR?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Спорт",Матч! Футбол 3
+http://545-tv.com/PREMIUM/NO/KANAL/ZnV0Ym9sMy1zZF8xX1lLWFFQ?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Спорт",Матч! Футбол 3 HD
+http://545-tv.com/PREMIUM/NO/KANAL/ZnV0Ym9sM18xX1VSVFpH?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Новости",Маяк ТВ
+http://545-tv.com/PREMIUM/NO/KANAL/bWF5YWstdHZfMV9HU0JMTA==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Познавательные",Министерство идей
+http://545-tv.com/PREMIUM/NO/KANAL/bWluaXN0ZXJpZGVpXzE=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Новости",Мир 24 HD
+http://545-tv.com/PREMIUM/NO/KANAL/bWlyLTI0XzFfSk1ZVEE=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Общественные",Мир HD
+http://545-tv.com/PREMIUM/NO/KANAL/bWlyXzFfQkJYUUs=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Общественные",Мир HD
+http://545-tv.com/PREMIUM/NO/KANAL/bWlyLWhkXzFfU01FUUE=
+#EXTINF:-1 aspect-ratio=None group-title="Кино",Мир Premium HD
+http://545-tv.com/PREMIUM/NO/KANAL/bWlyLXByZW1pdW0taGRfMQ==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Региональные",Мир Белогорья
+http://545-tv.com/PREMIUM/NO/KANAL/bWlyYmVsb2dvcnlhXzE=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Кино",Мир сериала
+http://545-tv.com/PREMIUM/NO/KANAL/bWlyLXNlcmlhbGFfMQ==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Познавательные",Морской ТВ
+http://545-tv.com/PREMIUM/NO/KANAL/bW9yc2tvai10dl8xX05RWUlB?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Новости",Москва 24
+http://545-tv.com/PREMIUM/NO/KANAL/bW9za3ZhMjRfMV9HTkJQSQ==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Спорт",Моторспорт ТВ HD
+http://545-tv.com/PREMIUM/NO/KANAL/bW90by1oZF8x?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Познавательные",Моя планета
+http://545-tv.com/PREMIUM/NO/KANAL/bW95YXBsYW5ldGFyZXpfMV9ESk9PSQ==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Кино",Мужское кино
+http://545-tv.com/PREMIUM/NO/KANAL/bXV6aGtpbm9fMV9ITUpMSQ==
+#EXTINF:-1 aspect-ratio=None group-title="Кино",Мужское кино HD
+http://545-tv.com/PREMIUM/NO/KANAL/bXV6aHNrb2Uta2lub18xX09RS1dR?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Разное",МузСоюз
+http://545-tv.com/PREMIUM/NO/KANAL/bXV6LXNveXV6XzFfSU5ZTkk=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Детские",Мульт
+http://545-tv.com/PREMIUM/NO/KANAL/bXVsdF8xX0lWTkVX?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Детские",Мультимания
+http://545-tv.com/PREMIUM/NO/KANAL/bXVsdGltYW5peWFfMV9aSUpBSg==
+#EXTINF:-1 aspect-ratio=None group-title="Украина",Надiя
+http://545-tv.com/PREMIUM/NO/KANAL/bmFkaXlhXzE=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Разное",Надежда TV
+http://545-tv.com/PREMIUM/NO/KANAL/bmFkZWdoZGFfMQ==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Общественные",Назад в 90-e
+http://545-tv.com/PREMIUM/NO/KANAL/bmF6YWR2OTBfMQ==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Познавательные",Нано ТВ (резерв)
+http://545-tv.com/PREMIUM/NO/KANAL/bmFuby10di1yZXplcnZfMV9IVEhGVg==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Региональные",Народная Дипломатия ТВ
+http://545-tv.com/PREMIUM/NO/KANAL/bmFyb2RkaXBsb21fMV9CVElRUw==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Новости",Настоящее время HD
+http://545-tv.com/PREMIUM/NO/KANAL/bmFzdG95YXNoZWUtdnJlbXlhLWhkXzFfQkRQT0w=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Познавательные",Наука 2.0
+http://545-tv.com/PREMIUM/NO/KANAL/bmF1a2EyMF8xX01XRlRP
+#EXTINF:-1 aspect-ratio=None group-title="Кино",Наш Детектив HD
+http://545-tv.com/PREMIUM/NO/KANAL/bmFzaF9kZXRla3Rpdl8xX0JXTUFa?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Кино",Наш Кинороман HD
+http://545-tv.com/PREMIUM/NO/KANAL/bmFzaGUtaGRfMV9XUkZEVA==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Спорт",Наш футбол
+http://545-tv.com/PREMIUM/NO/KANAL/bmFzaC1mdXRib2xfMV9DUEZRVQ==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Спорт",Наш футбол HD
+http://545-tv.com/PREMIUM/NO/KANAL/bmFzaF9mdXRib2xfaGRfMQ==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Познавательные",Наша Сибирь HD
+http://545-tv.com/PREMIUM/NO/KANAL/bmFzaGEtc2liaXJfMV9WSlJITA==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Познавательные",Наша тема HD
+http://545-tv.com/PREMIUM/NO/KANAL/bmFzaGF0ZW1haGRfMV9NVEFMQQ==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Кино",Наше Любимое HD
+http://545-tv.com/PREMIUM/NO/KANAL/bmFzaGVsdWJpbW9laGRfMV9LTUxDVg==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Кино",Наше любимое кино
+http://545-tv.com/PREMIUM/NO/KANAL/bHl1Ymltb2Uta2lub18xX1NVS0VK
+#EXTINF:-1 aspect-ratio=None group-title="Кино",Наше новое кино
+http://545-tv.com/PREMIUM/NO/KANAL/bm92b2VraW5vXzFfS1ZJVUg=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Региональные",НВ24
+http://545-tv.com/PREMIUM/NO/KANAL/bncyNF8x?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Региональные",Ника ТВ
+http://545-tv.com/PREMIUM/NO/KANAL/bmlrYS10dl8xX0xZTVdF?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Развлекательные",Новое Телевидение
+http://545-tv.com/PREMIUM/NO/KANAL/bm92b2UtdGVsZXZpZGluaWVfMV9KWE1GUQ==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Украина",Новороссия ТВ HD
+http://545-tv.com/PREMIUM/NO/KANAL/bm92b3Jvc3NpeWFfMV9OSEdRUQ==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Украина",Новый канал UA
+http://545-tv.com/PREMIUM/NO/KANAL/bm92eWpVQV8x?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Развлекательные",Новый мир ТВ
+http://545-tv.com/PREMIUM/NO/KANAL/bm92eWotbWlyLXR2?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Развлекательные",Ностальгия
+http://545-tv.com/PREMIUM/NO/KANAL/bm9zdGFsZ2l5YV8xX1FPSERR
+#EXTINF:-1 aspect-ratio=None group-title="Взрослое",Ночной клуб (18+) 
+http://545-tv.com/PREMIUM/NO/KANAL/bm9jaG5veS1rbHViXzFfRkxLRVc=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Кино",НСТ
+http://545-tv.com/PREMIUM/NO/KANAL/bnN0LXJlemVydl8xX1BVS1NB?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Общественные",НТВ
+http://545-tv.com/PREMIUM/NO/KANAL/bnR2XzFfUU9OSUY=
+#EXTINF:-1 aspect-ratio=None group-title="Общественные",НТВ (+4)
+http://545-tv.com/PREMIUM/NO/KANAL/bnR2KzRfMV9NR1BaVw==
+#EXTINF:-1 aspect-ratio=None group-title="Общественные",НТВ (Молдова)
+http://545-tv.com/PREMIUM/NO/KANAL/bnR2LW1vbGRvdmFfMV9DSEtWWA==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Общественные",НТВ HD
+http://545-tv.com/PREMIUM/NO/KANAL/TlRWX0hEXzFfVVhSU1M=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Общественные",НТВ Право
+http://545-tv.com/PREMIUM/NO/KANAL/bnR2X3ByYXZvXzE=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Кино",НТВ Сериал
+http://545-tv.com/PREMIUM/NO/KANAL/bnR2X3NlcmlhbF8xX0ZRRFBJ?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Общественные",НТВ Стиль
+http://545-tv.com/PREMIUM/NO/KANAL/bnR2X3N0aWxfMQ==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Общественные",НТВ ХИТ
+http://545-tv.com/PREMIUM/NO/KANAL/bnR2KzdfMV9GQ0RSSQ==
+#EXTINF:-1 aspect-ratio=None group-title="Музыка",О2 ТВ HD
+http://545-tv.com/PREMIUM/NO/KANAL/bzJfMQ==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Познавательные",Общественное ТВ
+http://545-tv.com/PREMIUM/NO/KANAL/b2JzaGVzdHZlbm5vZV8x?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Украина",ОДТРК ЛТАВА
+http://545-tv.com/PREMIUM/NO/KANAL/bHRhdmFfMQ==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Новости",ОПЛОТ 2
+http://545-tv.com/PREMIUM/NO/KANAL/b3Bsb3QyXzE=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Новости",Оплот ТВ
+http://545-tv.com/PREMIUM/NO/KANAL/b3Bsb3QtdHZfMV9KUUFITA==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Новости",Оплот ТВ HD
+http://545-tv.com/PREMIUM/NO/KANAL/b3Bsb3QtdHYyXzFfUVBQVUU=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Мужские",Оружие
+http://545-tv.com/PREMIUM/NO/KANAL/b3J1Z2llXzE=
+#EXTINF:-1 aspect-ratio=None group-title="Бесплатное",Осетия-Ирыстон
+http://545-tv.com/PREMIUM/NO/KANAL/b3NldGl5YV8xX0RCVFRI?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Кино",Остросюжетное HD
+http://545-tv.com/PREMIUM/NO/KANAL/b3N0cm9zdXpoZXRub2UtcmV6ZXJ2XzFfWkZIT1Q=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Региональные",ОТВ (Екатеринбург)
+http://545-tv.com/PREMIUM/NO/KANAL/b3R2LWVrYl8xX0pHWkZW?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Региональные",ОТВ (Приморье)
+http://545-tv.com/PREMIUM/NO/KANAL/b3R2cHJpbV8x?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Региональные",ОТВ HD (Омск)
+http://545-tv.com/PREMIUM/NO/KANAL/b3R2LW9tc2tfMV9KR0JIUg==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Музыка",Открытый HD
+http://545-tv.com/PREMIUM/NO/KANAL/b3Rrcnl0eWotaGRfMV9RUFFOVQ==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Познавательные",Открытый мир
+http://545-tv.com/PREMIUM/NO/KANAL/b3Blbm1pcl8x?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Взрослое",ОХ-АХ HD (18+)
+http://545-tv.com/PREMIUM/NO/KANAL/b2gtYWgtaGRfMV9LWVhPWA==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Мужские",Охота и рыбалка
+http://545-tv.com/PREMIUM/NO/KANAL/b2hvdGEtaS1yeWJhbGthLXJlemVydl8xX1lNR0ta
+#EXTINF:-1 aspect-ratio=None group-title="Мужские",Охота и рыбалка
+http://545-tv.com/PREMIUM/NO/KANAL/b2hvdGEtaS1yeWJhbGthXzE=
+#EXTINF:-1 aspect-ratio=None group-title="Мужские",Охотник и рыболов HD
+http://545-tv.com/PREMIUM/NO/KANAL/b2hvdG5pay1pLXJ5Ym9sb3YtaGQtcmV6ZXJ2XzFfUFVQWUM=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Мужские",Парк Патриот HD
+http://545-tv.com/PREMIUM/NO/KANAL/cGF0cmlvdF8x?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Региональные",Пенза ТВ
+http://545-tv.com/PREMIUM/NO/KANAL/cGVuemFfMV9KQkVHTw==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Общественные",Первый канал
+http://545-tv.com/PREMIUM/NO/KANAL/cGVydnl5LWthbmFsLWhkXzFfT01aU1E=
+#EXTINF:-1 aspect-ratio=None group-title="Развлекательные",Первый канал (+4)
+http://545-tv.com/PREMIUM/NO/KANAL/cGVyZXR6LWludC1yZXplcnZfMV9HVVRRWA==
+#EXTINF:-1 aspect-ratio=None group-title="Общественные",Первый канал (Евразия)
+http://545-tv.com/PREMIUM/NO/KANAL/MXR2LWV2cmF6aXl6XzFfRkhVVkw=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Общественные",Первый канал HD
+http://545-tv.com/PREMIUM/NO/KANAL/cGVydnl5LW9icmF6b3ZhdGVsbnl5XzFfR0ZSWEo=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Региональные",Первый МТВ (Волгоград)
+http://545-tv.com/PREMIUM/NO/KANAL/dm9sZ29ncmFkMXZ0dl8xX0xMS1pR?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Региональные",Первый Ярославский
+http://545-tv.com/PREMIUM/NO/KANAL/eWFyb3NsYXZza2lqXzE=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Общественные",Перец Int
+http://545-tv.com/PREMIUM/NO/KANAL/cGVyZWNfaW50XzFfVlpaV1M=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Общественные",Пёс и Ко
+http://545-tv.com/PREMIUM/NO/KANAL/cGVjaWtvXzE=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Детские",Пингвин ЛоЛо
+http://545-tv.com/PREMIUM/NO/KANAL/cGluZ3Zpbl8x?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Познавательные",Планета 
+http://545-tv.com/PREMIUM/NO/KANAL/cGxhbmV0YS1oZF8xX1FSR1RZ?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Познавательные",Планета HD (резерв)
+http://545-tv.com/PREMIUM/NO/KANAL/cGxhbmV0YWhkcmV6XzE=
+#EXTINF:-1 aspect-ratio=None group-title="Познавательные",Поехали!
+http://545-tv.com/PREMIUM/NO/KANAL/cGluZ3Zpbi1sb2xvXzFfV0ZWQVQ=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Бесплатное",Познавательное ТВ
+http://545-tv.com/PREMIUM/NO/KANAL/cG96bm92YXR0dl8xX0ZESk5J?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Региональные",Правда Севера (Архангельск)
+http://545-tv.com/PREMIUM/NO/KANAL/YXJocHJhdmRhXzE=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Украина",Правда тут HD
+http://545-tv.com/PREMIUM/NO/KANAL/cHJhdmRhdHV0aGRfMQ==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Кино",Продвижение HD
+http://545-tv.com/PREMIUM/NO/KANAL/cHJvZHZpemhlbmllLWhkXzFfVE5MQVA=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Украина",Пульсар
+http://545-tv.com/PREMIUM/NO/KANAL/cHVsc2FyXzE=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Общественные",Пятница
+http://545-tv.com/PREMIUM/NO/KANAL/cHlhdG5pY2ErM18xX0dPQlhE
+#EXTINF:-1 aspect-ratio=None group-title="Общественные",Пятница HD
+http://545-tv.com/PREMIUM/NO/KANAL/ZnJpZGF5aGRfMV9ZV05SSA==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Украина",Рада
+http://545-tv.com/PREMIUM/NO/KANAL/cmFkYV8x?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Радио",Радио Comedy Radio FM
+http://545-tv.com/PREMIUM/NO/KANAL/cmFkaW8tY29tZWR5
+#EXTINF:-1 aspect-ratio=None group-title="Музыка",Радио Europa Plus (студия)
+http://545-tv.com/PREMIUM/NO/KANAL/cmFkaW8tZXVyb3BhLXBsdXMtc3R1ZGl5YV8xX09RS0JF?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Музыка",Радио Europa Plus (студия) HD
+http://545-tv.com/PREMIUM/NO/KANAL/cmFkaW8tZXVyb3BhLXBsdXMtaGRfMV9TVVhaTg==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Радио",Радио Europa Plus FM
+http://545-tv.com/PREMIUM/NO/KANAL/cmFkaW8tZXVyb3BhLXBsdXM=
+#EXTINF:-1 aspect-ratio=None group-title="Радио",Радио Hit (2000-е) FM
+http://545-tv.com/PREMIUM/NO/KANAL/cmFkaW8taGl0LTIwMDA=
+#EXTINF:-1 aspect-ratio=None group-title="Радио",Радио Hit (Романтика) FM
+http://545-tv.com/PREMIUM/NO/KANAL/cmFkaW8taGl0LXJvbWFudGlrYQ==
+#EXTINF:-1 aspect-ratio=None group-title="Детские",Радио KIDS FM HD
+http://545-tv.com/PREMIUM/NO/KANAL/cmFkaW8ta2lkc2FmbS1vbmxpbmVfMV9OWVJHRg==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Радио",Радио Kiss FM
+http://545-tv.com/PREMIUM/NO/KANAL/cmFkaW8ta2lzcy1mbQ==
+#EXTINF:-1 aspect-ratio=None group-title="Радио",Радио NRJ (ENERGY) FM
+http://545-tv.com/PREMIUM/NO/KANAL/cmFkaW8tbnJq
+#EXTINF:-1 aspect-ratio=None group-title="Радио",Радио Relax FM
+http://545-tv.com/PREMIUM/NO/KANAL/cmFkaW8tc2F0dXJuLXJlbGF4
+#EXTINF:-1 aspect-ratio=None group-title="Радио",Радио Авторадио FM
+http://545-tv.com/PREMIUM/NO/KANAL/cmFkaW8tYXZ0b3JhZGlv
+#EXTINF:-1 aspect-ratio=None group-title="Радио",Радио Бизнес FM
+http://545-tv.com/PREMIUM/NO/KANAL/QnVzaW5lc3NGTQ==
+#EXTINF:-1 aspect-ratio=None group-title="Радио",Радио Билайн FM
+http://545-tv.com/PREMIUM/NO/KANAL/cmFkaW8tYmVlbGluZQ==
+#EXTINF:-1 aspect-ratio=None group-title="Радио",Радио Буу! FM
+http://545-tv.com/PREMIUM/NO/KANAL/cmFkaW8tYnV1LWZt
+#EXTINF:-1 aspect-ratio=None group-title="Радио",Радио Вести FM
+http://545-tv.com/PREMIUM/NO/KANAL/cmFkaW8tdmVzdGk=
+#EXTINF:-1 aspect-ratio=None group-title="Радио",Радио Детский Канал FM
+http://545-tv.com/PREMIUM/NO/KANAL/cmFkaW8tZGV0c2ppai1rYW5hbA==
+#EXTINF:-1 aspect-ratio=None group-title="Радио",Радио Джем FM
+http://545-tv.com/PREMIUM/NO/KANAL/cmFkaW8tZGplbQ==
+#EXTINF:-1 aspect-ratio=None group-title="Радио",Радио Зайцев Hip-Hop FM
+http://545-tv.com/PREMIUM/NO/KANAL/cmFkaW8taGlwaG9wLXphamNldg==
+#EXTINF:-1 aspect-ratio=None group-title="Радио",Радио Зайцев Шансон FM
+http://545-tv.com/PREMIUM/NO/KANAL/cmFkaW8tc2hhbnNvbi16YWpjZXY=
+#EXTINF:-1 aspect-ratio=None group-title="Радио",Радио Зенит FM
+http://545-tv.com/PREMIUM/NO/KANAL/cmFkaW8temVuaXQ=
+#EXTINF:-1 aspect-ratio=None group-title="Радио",Радио Золотой Граммофон FM
+http://545-tv.com/PREMIUM/NO/KANAL/cmFkaW8tem9sb3Rvai1ncmFtbW9mb24=
+#EXTINF:-1 aspect-ratio=None group-title="Радио",Радио Золотой Шторм FM
+http://545-tv.com/PREMIUM/NO/KANAL/cmFkaW8tem9sb3Rvai1zaHRvcm4=
+#EXTINF:-1 aspect-ratio=None group-title="Радио",Радио Казак FM
+http://545-tv.com/PREMIUM/NO/KANAL/cmFkaW8ta2F6YWs=
+#EXTINF:-1 aspect-ratio=None group-title="Радио",Радио Мария FM
+http://545-tv.com/PREMIUM/NO/KANAL/cmFkaW8tZm94LXJhZGlv
+#EXTINF:-1 aspect-ratio=None group-title="Радио",Радио Мастер FM
+http://545-tv.com/PREMIUM/NO/KANAL/cmFkaW8tbWFzdGVy
+#EXTINF:-1 aspect-ratio=None group-title="Радио",Радио Медляк FM
+http://545-tv.com/PREMIUM/NO/KANAL/cmFkaW8tbWVkbHlhay1mbQ==
+#EXTINF:-1 aspect-ratio=None group-title="Радио",Радио Милицейская волна FM
+http://545-tv.com/PREMIUM/NO/KANAL/cmFkaW8tbWlsaWNlanNrYXlhLXZvbG5h
+#EXTINF:-1 aspect-ratio=None group-title="Радио",Радио Михаил Круг FM
+http://545-tv.com/PREMIUM/NO/KANAL/cmFkaW8tbWloYWlsLWtydWctZm0=
+#EXTINF:-1 aspect-ratio=None group-title="Радио",Радио Наше радио FM
+http://545-tv.com/PREMIUM/NO/KANAL/cmFkaW8tbmFzaGUtcmFkaW8=
+#EXTINF:-1 aspect-ratio=None group-title="Радио",Радио Отличное Радио
+http://545-tv.com/PREMIUM/NO/KANAL/cmFkaW8tb3RsaWNobm9lLXJhZGlv
+#EXTINF:-1 aspect-ratio=None group-title="Радио",Радио Пилот (Dance) FM
+http://545-tv.com/PREMIUM/NO/KANAL/cmFkaW8tcGlsb3QtZGFuY2U=
+#EXTINF:-1 aspect-ratio=None group-title="Радио",Радио Пилот FM
+http://545-tv.com/PREMIUM/NO/KANAL/cmFkaW8tcGlsb3Q=
+#EXTINF:-1 aspect-ratio=None group-title="Радио",Радио Популярная КЛАССИКА FM
+http://545-tv.com/PREMIUM/NO/KANAL/cmFkaW8tcG9wdWx5YXJuYXlhLWNsYXNzaWNhLWZt
+#EXTINF:-1 aspect-ratio=None group-title="Радио",Радио России FM
+http://545-tv.com/PREMIUM/NO/KANAL/cmFkaW8tcm9zc2lp
+#EXTINF:-1 aspect-ratio=None group-title="Радио",Радио РСН FM
+http://545-tv.com/PREMIUM/NO/KANAL/cnNuLXJhZGlv
+#EXTINF:-1 aspect-ratio=None group-title="Радио",Радио Русские Песни FM
+http://545-tv.com/PREMIUM/NO/KANAL/cmFkaW8tcnVzc2tpZS1wZXNuaQ==
+#EXTINF:-1 aspect-ratio=None group-title="Радио",Радио Русский Шторм FM
+http://545-tv.com/PREMIUM/NO/KANAL/cmFkaW8tcnVzc2tpai1zaHRvcm4=
+#EXTINF:-1 aspect-ratio=None group-title="Радио",Радио Спорт FM
+http://545-tv.com/PREMIUM/NO/KANAL/c3BvcnQtZm0=
+#EXTINF:-1 aspect-ratio=None group-title="Радио",Радио СССР FM
+http://545-tv.com/PREMIUM/NO/KANAL/cmFkaW8tc2F0dXJuLXNzc3I=
+#EXTINF:-1 aspect-ratio=None group-title="Радио",Радио Трендовый Шторм FM
+http://545-tv.com/PREMIUM/NO/KANAL/cmFkaW8tdHJlbmRvdnlqLXNodG9ybg==
+#EXTINF:-1 aspect-ratio=None group-title="Радио",Радио Шансон (Без цензуры) FM
+http://545-tv.com/PREMIUM/NO/KANAL/cmFkaW8tY2hhbnNvbi11bmNlbnNvcmVk
+#EXTINF:-1 aspect-ratio=None group-title="Радио",Радио Шансон (Романтика) FM
+http://545-tv.com/PREMIUM/NO/KANAL/cmFkaW8tY2hhbnNvbi1yb21hbnRpa2E=
+#EXTINF:-1 aspect-ratio=None group-title="Радио",Радио Шансон FM
+http://545-tv.com/PREMIUM/NO/KANAL/cmFkaW8tY2hhbnNvbg==
+#EXTINF:-1 aspect-ratio=None group-title="Радио",Радио Юмор FM
+http://545-tv.com/PREMIUM/NO/KANAL/cmFkaW8teXVtb3I=
+#EXTINF:-1 aspect-ratio=None group-title="Детские",Радость моя
+http://545-tv.com/PREMIUM/NO/KANAL/cmFkb3N0LW1veWFfMV9KQ05XTw==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Детские",Радость моя (резерв)
+http://545-tv.com/PREMIUM/NO/KANAL/cmFkb3N0LW1veWEtcmV6ZXJ2XzFfWElWQ1A=
+#EXTINF:-1 aspect-ratio=None group-title="Бесплатное",Раз ТВ
+http://545-tv.com/PREMIUM/NO/KANAL/cmF6LXR2LXJlemVydl8xX0JWQk5K?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Детские",Развлечение ТВ (Аладдин)
+http://545-tv.com/PREMIUM/NO/KANAL/YWxhZGRpbl8xX09EREZJ?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Детские",Развлечение ТВ (Ералаш 1974-2010)
+http://545-tv.com/PREMIUM/NO/KANAL/ZXJhbGFzaF8xX0hWQUJZ?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Детские",Развлечение ТВ (Утиные истории)
+http://545-tv.com/PREMIUM/NO/KANAL/dXRpbm55ZS1pc3RvcmlpXzFfUkpNRlQ=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Кино",Развлечение ТВ (Фильмы СССР)
+http://545-tv.com/PREMIUM/NO/KANAL/cmF6dmxlY2hlbmllLXR2LXNzc3JfMV9ZSVhaQg==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Кино",Развлечение ТВ (Фильмы)
+http://545-tv.com/PREMIUM/NO/KANAL/cmF6dmxlY2hlbmllLXR2XzFfSFlZQ1o=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Детские",Развлечение ТВ (Черный плащ)
+http://545-tv.com/PREMIUM/NO/KANAL/Y2hlcm55ai1wbGFzaF8xX1BPUVBF?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Взрослое",Развлечение ТВ HD (Взрослое 18+)
+http://545-tv.com/PREMIUM/NO/KANAL/cmF6dmxlY2hlbmllLXR2LXh4eC1oZF8xX05JTVNH?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Бесплатное",Ратник ТВ
+http://545-tv.com/PREMIUM/NO/KANAL/cmF0bmlrdHZfMV9FTVRFTA==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Новости",РБК
+http://545-tv.com/PREMIUM/NO/KANAL/cmJrXzFfUlFNUks=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Общественные",Рен ТВ
+http://545-tv.com/PREMIUM/NO/KANAL/cmVuLXR2XzFfR1NBWEM=
+#EXTINF:-1 aspect-ratio=None group-title="Общественные",Рен ТВ
+http://545-tv.com/PREMIUM/NO/KANAL/cmVuLXR2cmV6XzE=
+#EXTINF:-1 aspect-ratio=None group-title="Бесплатное",Рен ТВ (Орел)
+http://545-tv.com/PREMIUM/NO/KANAL/cmVuLXR2b3JlbF8xX0pVRVJK?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Общественные",РЕН ТВ HD
+http://545-tv.com/PREMIUM/NO/KANAL/cmVudHZoZF8xX1JBVkhJ?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Развлекательные",Ретро ТВ
+http://545-tv.com/PREMIUM/NO/KANAL/cmV0cm8tdHZfMV9ISUpWTg==
+#EXTINF:-1 aspect-ratio=None group-title="Новости",РЖД ТВ HD
+http://545-tv.com/PREMIUM/NO/KANAL/cnpoZC1oZF8xX01MQU5a?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Кино",Родное кино
+http://545-tv.com/PREMIUM/NO/KANAL/bmFzaGVraW5vXzFfSFRBVkk=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Общественные",Россия 1 HD (резерв)
+http://545-tv.com/PREMIUM/NO/KANAL/cm9zc2l5YS1ydHItbW9sZG92YV8xX1FFU0lQ?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Общественные",Россия 1 Калуга
+http://545-tv.com/PREMIUM/NO/KANAL/cm9zc2l5YTFrYWx1Z2FfMV9VUVRRVA==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Общественные",Россия 1 Нижний Новгород
+http://545-tv.com/PREMIUM/NO/KANAL/cm9zc2l5YTFuaWdoXzFfUVdRS0k=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Новости",Россия 24
+http://545-tv.com/PREMIUM/NO/KANAL/cm9zc2l5YS0yNF8xX1NTS0hT?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Общественные",Россия HD (резерв)
+http://545-tv.com/PREMIUM/NO/KANAL/cm9zc2l5YS1oZC1yZXplcnZfMV9OUFJUSg==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Общественные",Россия К
+http://545-tv.com/PREMIUM/NO/KANAL/cm9zc2l5YS1rXzFfWlFTSFA=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Общественные",Россия-1
+http://545-tv.com/PREMIUM/NO/KANAL/cm9zc2l5YTFfMV9IQ1ZUTg==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Общественные",РТР Россия
+http://545-tv.com/PREMIUM/NO/KANAL/cHRwLXJvc3NpeWFfMV9PS0FGTw==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Бесплатное",Рубль ТВ
+http://545-tv.com/PREMIUM/NO/KANAL/cnVibF8xX0pWVlRG?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Кино",Русская комедия
+http://545-tv.com/PREMIUM/NO/KANAL/cnVzc2theWEta29tZWRpeWFfMV9DR09SRQ==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Кино",Русская комедия (резерв)
+http://545-tv.com/PREMIUM/NO/KANAL/cnVzc2theWEta29tZWRpeWEtcmV6ZXJ2XzE=
+#EXTINF:-1 aspect-ratio=None group-title="Взрослое",Русская лолита (18+)
+http://545-tv.com/PREMIUM/NO/KANAL/cnVzc2theWEtbG9saXRhLXZvZF8xX1JWVEVD?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Взрослое",Русская ночь (18+)
+http://545-tv.com/PREMIUM/NO/KANAL/cnVzc2theWEtbm9jaF8xX0ZGTlRW?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Кино",Русский бестселлер
+http://545-tv.com/PREMIUM/NO/KANAL/cnVzc2tpeS1iZXN0c2VsbGVyXzFfWUhCRkI=
+#EXTINF:-1 aspect-ratio=None group-title="Кино",Русский детектив
+http://545-tv.com/PREMIUM/NO/KANAL/cnVzc2tpeS1kZXRla3Rpdl8xX0ZYVVNI
+#EXTINF:-1 aspect-ratio=None group-title="Кино",Русский иллюзион
+http://545-tv.com/PREMIUM/NO/KANAL/cnVzc2tpeS1pbGx5dXppb25fMV9LT0tYUw==
+#EXTINF:-1 aspect-ratio=None group-title="Кино",Русский роман
+http://545-tv.com/PREMIUM/NO/KANAL/cnVzc2tpeS1yb21hbl8xX0xUVkZT
+#EXTINF:-1 aspect-ratio=None group-title="Кино",Русский роман HD
+http://545-tv.com/PREMIUM/NO/KANAL/cnVzc2tpai1yb21hbi1oZF8xX0lUT1RV?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Спорт",Русский экстрим
+http://545-tv.com/PREMIUM/NO/KANAL/cnVzc2tpeS1la3N0cmltXzE=
+#EXTINF:-1 aspect-ratio=None group-title="Спорт",Русский экстрим HD
+http://545-tv.com/PREMIUM/NO/KANAL/cnVzc2tpeS1la3N0cmltLWhkXzE=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Детские",Рыжий
+http://545-tv.com/PREMIUM/NO/KANAL/cnl6aGl5LXRlZW4tdHZfMV9OR0ZWUg==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Развлекательные",Сарафан
+http://545-tv.com/PREMIUM/NO/KANAL/c2FyYWZhbl8xX1lSRUZR
+#EXTINF:-1 aspect-ratio=None group-title="Музыка",Свежий ТВ
+http://545-tv.com/PREMIUM/NO/KANAL/c3ZlZ2hpal8x?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Региональные",Свое ТВ
+http://545-tv.com/PREMIUM/NO/KANAL/c3ZvZXR2XzE=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Региональные",Север
+http://545-tv.com/PREMIUM/NO/KANAL/c2V2ZXJfMV9CQVRRTA==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Бесплатное",Семейный
+http://545-tv.com/PREMIUM/NO/KANAL/bW5vZ290dl8xX09FQkdP?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Познавательные",Семья ТВ
+http://545-tv.com/PREMIUM/NO/KANAL/c2VteWEtdHZfMV9MQUZBTA==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Спорт",СИЛА ТВ HD
+http://545-tv.com/PREMIUM/NO/KANAL/c2lsYV8x?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Детские",Сказки Зайки HD
+http://545-tv.com/PREMIUM/NO/KANAL/c2themtpemFqa2lfMQ==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Развлекательные",Скат 24 HD
+http://545-tv.com/PREMIUM/NO/KANAL/c2thdDI0LWhkXzFfR0xIU0o=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Детские",Смайлик ТВ
+http://545-tv.com/PREMIUM/NO/KANAL/c3NtYWpsaWstdHZfMV9HUVVXTw==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Познавательные",Смена ТВ
+http://545-tv.com/PREMIUM/NO/KANAL/U01FTkFfMV9YUlNFRw==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Познавательные",Совершенно секретно
+http://545-tv.com/PREMIUM/NO/KANAL/c292LXNla18xX0tTRVNE
+#EXTINF:-1 aspect-ratio=None group-title="Разное",Союз
+http://545-tv.com/PREMIUM/NO/KANAL/c295dXpfMV9LWlpLQQ==
+#EXTINF:-1 aspect-ratio=None group-title="Разное",Спас ТВ
+http://545-tv.com/PREMIUM/NO/KANAL/c3Bhcy10dl8xX1JRTUZG
+#EXTINF:-1 aspect-ratio=None group-title="Разное",СССР
+http://545-tv.com/PREMIUM/NO/KANAL/c3Nzcl8xX1FLTE9L?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Спорт",Старт HD
+http://545-tv.com/PREMIUM/NO/KANAL/c3RhcnRoZF8x?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Украина",СТБ [UA]
+http://545-tv.com/PREMIUM/NO/KANAL/c3RidWFfMQ==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Иностранные",СТВ (Беларусь)
+http://545-tv.com/PREMIUM/NO/KANAL/c3R2YmVsXzFfVlFHUU4=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Музыка",Страна FM ТВ HD
+http://545-tv.com/PREMIUM/NO/KANAL/c3RyYW5hLWZtLXN0dWRpYV8xX0FEU1dZ?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Кино",Страх HD
+http://545-tv.com/PREMIUM/NO/KANAL/c3RyYWgtaGRfMV9YTUxMTw==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Кино",Страшное HD
+http://545-tv.com/PREMIUM/NO/KANAL/c3RyYWNobm9lXzFfUlJIVk4=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Кино",СТРК Сочи HD
+http://545-tv.com/PREMIUM/NO/KANAL/c3Ryay1zb2NoaS1oZF8xX1lMUU5K?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Общественные",СТС
+http://545-tv.com/PREMIUM/NO/KANAL/c3RzKzBfMV9EWUNTRA==
+#EXTINF:-1 aspect-ratio=None group-title="Общественные",СТС (+4)
+http://545-tv.com/PREMIUM/NO/KANAL/c3RzNF8x
+#EXTINF:-1 aspect-ratio=None group-title="Общественные",СТС (+7)
+http://545-tv.com/PREMIUM/NO/KANAL/c3RzKzdfMV9BS1BXTQ==
+#EXTINF:-1 aspect-ratio=None group-title="Развлекательные",СТС Love
+http://545-tv.com/PREMIUM/NO/KANAL/c3RzLWxvdmVfMQ==
+#EXTINF:-1 aspect-ratio=None group-title="Развлекательные",Супер
+http://545-tv.com/PREMIUM/NO/KANAL/c3VwZXJfMQ==
+#EXTINF:-1 aspect-ratio=None group-title="Мужские",Т24
+http://545-tv.com/PREMIUM/NO/KANAL/dDI0XzFfRlNDWkk=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Бесплатное",ТБН
+http://545-tv.com/PREMIUM/NO/KANAL/dGJuXzFfVk5EWFM=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Общественные",ТВ 3
+http://545-tv.com/PREMIUM/NO/KANAL/dHYtM18xX1hUUEJB
+#EXTINF:-1 aspect-ratio=None group-title="Общественные",ТВ 3 (+4)
+http://545-tv.com/PREMIUM/NO/KANAL/dHYtMyszXzFfQ0dZR1c=
+#EXTINF:-1 aspect-ratio=None group-title="Общественные",ТВ 3 HD
+http://545-tv.com/PREMIUM/NO/KANAL/dHYzaGRfMV9ZS1lNQg==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Украина",ТВ-Дом
+http://545-tv.com/PREMIUM/NO/KANAL/dHZkb211a18xX1FRQk9F
+#EXTINF:-1 aspect-ratio=None group-title="Общественные",ТВ+
+http://545-tv.com/PREMIUM/NO/KANAL/dHZwbHVzXzE=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Познавательные",Твой дом
+http://545-tv.com/PREMIUM/NO/KANAL/dHZvai1kb20taGRfMV9SUFJCUQ==
+#EXTINF:-1 aspect-ratio=None group-title="Общественные",ТВЦ
+http://545-tv.com/PREMIUM/NO/KANAL/dHZjXzFfQ0lJQk4=
+#EXTINF:-1 aspect-ratio=None group-title="Разное",ТДК
+http://545-tv.com/PREMIUM/NO/KANAL/dGRrXzFfR1pDS1U=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Развлекательные",ТелеДом ТВ HD
+http://545-tv.com/PREMIUM/NO/KANAL/dGVsZWRvbS10dl8xX1lJUExB?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Кино",Теленовелла
+http://545-tv.com/PREMIUM/NO/KANAL/dGVsZW5vdmVsbGFfMQ==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Региональные",Тивиком
+http://545-tv.com/PREMIUM/NO/KANAL/dGl2aWtvbV8x?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Детские",ТЛУМ HD
+http://545-tv.com/PREMIUM/NO/KANAL/dGx1bS1oZF8xX1BGT1FS?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Общественные",ТНТ
+http://545-tv.com/PREMIUM/NO/KANAL/dGh0KzBfMV9RUURRSQ==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Общественные",ТНТ (+4)
+http://545-tv.com/PREMIUM/NO/KANAL/dG50KzRfMV9UTlZZUg==
+#EXTINF:-1 aspect-ratio=None group-title="Общественные",ТНТ (Int)
+http://545-tv.com/PREMIUM/NO/KANAL/dG50LWludF8xX05TUlhM
+#EXTINF:-1 aspect-ratio=None group-title="Общественные",ТНТ HD
+http://545-tv.com/PREMIUM/NO/KANAL/dG50aGRfMV9VQklWUA==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Музыка",ТНТ Music
+http://545-tv.com/PREMIUM/NO/KANAL/dG50LW11c2ljXzFfTkVOU0Y=
+#EXTINF:-1 aspect-ratio=None group-title="Развлекательные",ТНТ4
+http://545-tv.com/PREMIUM/NO/KANAL/dG50LTRfMV9CVlRaTA==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Развлекательные",ТНТ4 (+4)
+http://545-tv.com/PREMIUM/NO/KANAL/dG50LTQtcmV6ZXJ2XzE=
+#EXTINF:-1 aspect-ratio=None group-title="Региональные",Тольятти 24
+http://545-tv.com/PREMIUM/NO/KANAL/dG9saXlhdGlfMQ==
+#EXTINF:-1 aspect-ratio=None group-title="Кино",Трейлеры Ovideo
+http://545-tv.com/PREMIUM/NO/KANAL/T3ZpZGVvXzE=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Кино",Трейлеры ТВ
+http://545-tv.com/PREMIUM/NO/KANAL/dHJlamxlcml0dl8x?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Общественные",ТРО
+http://545-tv.com/PREMIUM/NO/KANAL/dHJvXzFfUEJWUkU=
+#EXTINF:-1 aspect-ratio=None group-title="Мужские",Трофей HD
+http://545-tv.com/PREMIUM/NO/KANAL/dHJvZmV5LWhkXzFfTldXUk0=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Кино",Туапсе HD
+http://545-tv.com/PREMIUM/NO/KANAL/c3Ryay10dWFwc2UtaGRfMV9USEtSSA==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Музыка",Туган Тел
+http://545-tv.com/PREMIUM/NO/KANAL/dHVnYW4tdGVsXzFfSlVHSVc=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Музыка",Туган Тел HD
+http://545-tv.com/PREMIUM/NO/KANAL/dHVyZ2FuaGRfMQ==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Региональные",Тюменское время
+http://545-tv.com/PREMIUM/NO/KANAL/dHVtZW5za29lLXZyZW15YV8xX09YWUdY?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Кино",Универ ТВ
+http://545-tv.com/PREMIUM/NO/KANAL/dW5pdmVyXzFfSkNWTlE=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Развлекательные",Усадьба
+http://545-tv.com/PREMIUM/NO/KANAL/dXNhZGJhXzFfRVZaQVY=
+#EXTINF:-1 aspect-ratio=None group-title="Развлекательные",Успех
+http://545-tv.com/PREMIUM/NO/KANAL/dXNwZWhfMV9QWlFZRg==
+#EXTINF:-1 aspect-ratio=None group-title="Кино",ФАНТАСТИКА HD
+http://545-tv.com/PREMIUM/NO/KANAL/ZmFudGFzdGlrYWhkXzFfUVlJU0M=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Кино",Феникс Плюс Кино
+http://545-tv.com/PREMIUM/NO/KANAL/ZmVuaWtzLXBsdXMta2lub18xX1NBSklG
+#EXTINF:-1 aspect-ratio=None group-title="Кино",Феникс Плюс Кино (резерв)
+http://545-tv.com/PREMIUM/NO/KANAL/ZmVuaWtzLXBsdXMta2luby1yZXplcnZfMV9PQUtDWg==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Спорт",Футбол HD
+http://545-tv.com/PREMIUM/NO/KANAL/ZnV0Ym9sMy1yZXplcnZfMQ==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Бесплатное",Хабар
+http://545-tv.com/PREMIUM/NO/KANAL/aGFiYXJfMV9OUEhVRg==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Кино",Хамелеон ТВ HD
+http://545-tv.com/PREMIUM/NO/KANAL/aGFtZWxpb24tdHZfMV9VQ0lBUg==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Региональные",Царское село ТВ
+http://545-tv.com/PREMIUM/NO/KANAL/aG9yb3NoZWVfa2lub3Jlel8x?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Общественные",Че
+http://545-tv.com/PREMIUM/NO/KANAL/Y2hlXzFfRkhHQUc=
+#EXTINF:-1 aspect-ratio=None group-title="Общественные",Че (+4)
+http://545-tv.com/PREMIUM/NO/KANAL/Y2hlKzRfMV9JVFdRTA==
+#EXTINF:-1 aspect-ratio=None group-title="Общественные",Че (+7)
+http://545-tv.com/PREMIUM/NO/KANAL/Y2hlKzdfMV9XQU1YRw==
+#EXTINF:-1 aspect-ratio=None group-title="Региональные",Черное море (Bulgaria)
+http://545-tv.com/PREMIUM/NO/KANAL/Y2hlcm5vZS1tb3JlXzFfRlNFVVg=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Украина",ЧП Инфо
+http://545-tv.com/PREMIUM/NO/KANAL/Y2hwaW5vXzE=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Взрослое",Шалун (18+)
+http://545-tv.com/PREMIUM/NO/KANAL/c2hhbHVuXzFfV1NSRlc=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Музыка",Шансон ТВ
+http://545-tv.com/PREMIUM/NO/KANAL/c2hhbnNvbi10dl8xX1NUU1BS?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Кино",Шокирующее HD
+http://545-tv.com/PREMIUM/NO/KANAL/a2lub3Bva2F6LWhkMV8xX09PV0JS?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Взрослое",Эгоист ТВ (18+)
+http://545-tv.com/PREMIUM/NO/KANAL/ZWdvaXN0LXR2XzFfU0NORUU=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Познавательные",Эфир 24
+http://545-tv.com/PREMIUM/NO/KANAL/ZWZpcjI0XzFfVkJPR0k=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Общественные",Ю
+http://545-tv.com/PREMIUM/NO/KANAL/eXUtdHZfMV9SRVBCTw==
+#EXTINF:-1 aspect-ratio=None group-title="Общественные",Ю (+4)
+http://545-tv.com/PREMIUM/NO/KANAL/eXUrN18xX1hBWk5F
+#EXTINF:-1 aspect-ratio=None group-title="Региональные",Югра
+http://545-tv.com/PREMIUM/NO/KANAL/anVncmFfMV9GTEdaSw==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Разное",ЮжДаг
+http://545-tv.com/PREMIUM/NO/KANAL/eXVqZGFnXzFfWkdCTlk=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Региональные",Южная Волна HD
+http://545-tv.com/PREMIUM/NO/KANAL/eXV6aG5heWEtdm9sbmEtaGRfMV9LVEJaUQ==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Развлекательные",Юмор BOX
+http://545-tv.com/PREMIUM/NO/KANAL/eXVtb3ItYm94XzFfSFhWSEM=?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Развлекательные",Юмор BOX (резерв)
+http://545-tv.com/PREMIUM/NO/KANAL/eXVtb3ItYm94LXJlemVydl8xX09XSEJE
+#EXTINF:-1 aspect-ratio=None group-title="Разное",Юрган
+http://545-tv.com/PREMIUM/NO/KANAL/dXJnYW5fMV9KQ1JHVg==?.m3u8
+#EXTINF:-1 aspect-ratio=None group-title="Разное",Ямал Регион
+http://545-tv.com/PREMIUM/NO/KANAL/amFtYWxfMV9EVldPUA==?.m3u8
+#EXTINF:-1 group-title="Информация", WWE Network только на 545-tv.com
+http://nstat.ru/g/191
+#EXTINF:-1 group-title="Информация",Группа в ВК https://vk.com/iptv545com
+https://vk.com/iptv545com
+#EXTINF:-1 group-title="Информация",Самообновляемый плейлист RU / 545-tv.com v3.0 ( http://545-tv.com )
+http://nstat.ru/g/190
